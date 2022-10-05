@@ -6,7 +6,7 @@
 [![How to Use Stable Diffusion Webui Colab](https://i.imgur.com/Bth3B2R.jpg)](http://www.youtube.com/watch?v=ZUbLoMt_wa0)
 
 ## Stable Diffusion Web UI
-[https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki).
+[https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
 
 ## Documentation
 [https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki).
