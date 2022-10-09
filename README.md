@@ -14,7 +14,7 @@
 ## Model From
 stable_diffusion_webui_colab: https://huggingface.co/CompVis/stable-diffusion-v-1-4-original/blob/main/sd-v1-4.ckpt
 
-waifu_diffusion_webui_colab: https://huggingface.co/hakurei/waifu-diffusion-v1-3/blob/main/model-epoch08-float32.ckpt
+waifu_diffusion_webui_colab: https://huggingface.co/hakurei/waifu-diffusion-v1-3/blob/main/wd-v1-3-float32.ckpt
 
 ## Model License
 stable_diffusion_webui_colab: https://huggingface.co/spaces/CompVis/stable-diffusion-license
