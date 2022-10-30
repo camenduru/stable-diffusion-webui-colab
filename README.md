@@ -28,8 +28,8 @@ stable_diffusion_1_5_webui_colab https://huggingface.co/runwayml/stable-diffusio
 
 mo_di_diffusion_webui_colab https://huggingface.co/nitrosocke/mo-di-diffusion/blob/main/moDi-v1-pruned.ckpt
 
-## Model License
-stable_diffusion_webui_colab: https://huggingface.co/spaces/CompVis/stable-diffusion-license
+## Model Page
+stable_diffusion_webui_colab: https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
 
 waifu_diffusion_webui_colab: https://huggingface.co/hakurei/waifu-diffusion-v1-3
 
@@ -38,3 +38,14 @@ stable_diffusion_inpainting_webui_colab https://huggingface.co/runwayml/stable-d
 stable_diffusion_1_5_webui_colab https://huggingface.co/runwayml/stable-diffusion-v1-5
 
 mo_di_diffusion_webui_colab https://huggingface.co/nitrosocke/mo-di-diffusion
+
+## Model License
+stable_diffusion_webui_colab: https://huggingface.co/spaces/CompVis/stable-diffusion-license
+
+waifu_diffusion_webui_colab: https://huggingface.co/spaces/CompVis/stable-diffusion-license
+
+stable_diffusion_inpainting_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
+
+stable_diffusion_1_5_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
+
+mo_di_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
