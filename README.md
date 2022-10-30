@@ -10,6 +10,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/arcane_diffusion_3_webui_colab.ipynb) arcane_diffusion_3_webui_colab (Use the tokens `arcane style` in your prompts for the effect.)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/cyberpunk_anime_diffusion_webui_colab.ipynb) cyberpunk_anime_diffusion_webui_colab (Use the tokens `dgs illustration style` in your prompts for the effect.)
+
 ## How to Use (Youtube Video)
 [![How to Use Stable Diffusion Webui Colab](https://i.imgur.com/Bth3B2R.jpg)](http://www.youtube.com/watch?v=ZUbLoMt_wa0)
 
@@ -32,6 +34,8 @@ mo_di_diffusion_webui_colab https://huggingface.co/nitrosocke/mo-di-diffusion/bl
 
 arcane_diffusion_3_webui_colab https://huggingface.co/nitrosocke/Arcane-Diffusion/blob/main/arcane-diffusion-v3.ckpt
 
+cyberpunk_anime_diffusion_webui_colab https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion/blob/main/Cyberpunk-Anime-Diffusion.ckpt
+
 ## Model Page
 stable_diffusion_webui_colab: https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
 
@@ -45,6 +49,8 @@ mo_di_diffusion_webui_colab https://huggingface.co/nitrosocke/mo-di-diffusion
 
 arcane_diffusion_3_webui_colab https://huggingface.co/nitrosocke/Arcane-Diffusion
 
+cyberpunk_anime_diffusion_webui_colab https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion
+
 ## Model License
 stable_diffusion_webui_colab: https://huggingface.co/spaces/CompVis/stable-diffusion-license
 
@@ -57,3 +63,5 @@ stable_diffusion_1_5_webui_colab https://huggingface.co/spaces/CompVis/stable-di
 mo_di_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
 
 arcane_diffusion_3_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
+
+cyberpunk_anime_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
