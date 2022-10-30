@@ -6,7 +6,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_1_5_webui_colab.ipynb) stable_diffusion_1_5_webui_colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/mo_di_diffusion_webui_colab.ipyn) mo_di_diffusion_webui_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/mo_di_diffusion_webui_colab.ipynb) mo_di_diffusion_webui_colab
 
 ## How to Use (Youtube Video)
 [![How to Use Stable Diffusion Webui Colab](https://i.imgur.com/Bth3B2R.jpg)](http://www.youtube.com/watch?v=ZUbLoMt_wa0)
