@@ -8,8 +8,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/mo_di_diffusion_webui_colab.ipynb) mo_di_diffusion_webui_colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/arcane_diffusion_3_webui_colab.ipynb) arcane_diffusion_3_webui_colab
-
 ## How to Use (Youtube Video)
 [![How to Use Stable Diffusion Webui Colab](https://i.imgur.com/Bth3B2R.jpg)](http://www.youtube.com/watch?v=ZUbLoMt_wa0)
 
@@ -30,8 +28,6 @@ stable_diffusion_1_5_webui_colab https://huggingface.co/runwayml/stable-diffusio
 
 mo_di_diffusion_webui_colab https://huggingface.co/nitrosocke/mo-di-diffusion/blob/main/moDi-v1-pruned.ckpt
 
-arcane_diffusion_3_webui_colab https://huggingface.co/nitrosocke/Arcane-Diffusion/blob/main/arcane-diffusion-v3.ckpt
-
 ## Model Page
 stable_diffusion_webui_colab: https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
 
@@ -43,8 +39,6 @@ stable_diffusion_1_5_webui_colab https://huggingface.co/runwayml/stable-diffusio
 
 mo_di_diffusion_webui_colab https://huggingface.co/nitrosocke/mo-di-diffusion
 
-arcane_diffusion_3_webui_colab https://huggingface.co/nitrosocke/Arcane-Diffusion
-
 ## Model License
 stable_diffusion_webui_colab: https://huggingface.co/spaces/CompVis/stable-diffusion-license
 
@@ -55,5 +49,3 @@ stable_diffusion_inpainting_webui_colab https://huggingface.co/spaces/CompVis/st
 stable_diffusion_1_5_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
 
 mo_di_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
-
-arcane_diffusion_3_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
