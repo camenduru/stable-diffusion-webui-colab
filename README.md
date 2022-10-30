@@ -6,6 +6,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_1_5_webui_colab.ipynb) stable_diffusion_1_5_webui_colab
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/mo_di_diffusion_webui_colab.ipyn) mo_di_diffusion_webui_colab
+
 ## How to Use (Youtube Video)
 [![How to Use Stable Diffusion Webui Colab](https://i.imgur.com/Bth3B2R.jpg)](http://www.youtube.com/watch?v=ZUbLoMt_wa0)
 
@@ -24,6 +26,8 @@ stable_diffusion_inpainting_webui_colab https://huggingface.co/runwayml/stable-d
 
 stable_diffusion_1_5_webui_colab https://huggingface.co/runwayml/stable-diffusion-v1-5/blob/main/v1-5-pruned-emaonly.ckpt
 
+mo_di_diffusion_webui_colab https://huggingface.co/nitrosocke/mo-di-diffusion/blob/main/moDi-v1-pruned.ckpt
+
 ## Model License
 stable_diffusion_webui_colab: https://huggingface.co/spaces/CompVis/stable-diffusion-license
 
@@ -32,3 +36,5 @@ waifu_diffusion_webui_colab: https://huggingface.co/hakurei/waifu-diffusion-v1-3
 stable_diffusion_inpainting_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
 
 stable_diffusion_1_5_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
+
+mo_di_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
