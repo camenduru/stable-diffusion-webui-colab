@@ -33,8 +33,8 @@ stable_diffusion_webui_colab: https://huggingface.co/spaces/CompVis/stable-diffu
 
 waifu_diffusion_webui_colab: https://huggingface.co/hakurei/waifu-diffusion-v1-3
 
-stable_diffusion_inpainting_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
+stable_diffusion_inpainting_webui_colab https://huggingface.co/runwayml/stable-diffusion-inpainting
 
-stable_diffusion_1_5_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
+stable_diffusion_1_5_webui_colab https://huggingface.co/runwayml/stable-diffusion-v1-5
 
-mo_di_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
+mo_di_diffusion_webui_colab https://huggingface.co/nitrosocke/mo-di-diffusion
