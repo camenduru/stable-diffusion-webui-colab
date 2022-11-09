@@ -12,6 +12,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/cyberpunk_anime_diffusion_webui_colab.ipynb) cyberpunk_anime_diffusion_webui_colab (Use the tokens `dgs illustration style` in your prompts for the effect.)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/midjourney_v4_diffusion_webui_colab.ipynb) midjourney_v4_diffusion_webui_colab (Use the tokens `mdjrny-v4 style` in your prompts for the effect.)
+
 ## How to Use (Youtube Video)
 [![How to Use Stable Diffusion Webui Colab](https://i.imgur.com/Bth3B2R.jpg)](http://www.youtube.com/watch?v=ZUbLoMt_wa0)
 
@@ -36,6 +38,8 @@ arcane_diffusion_3_webui_colab https://huggingface.co/nitrosocke/Arcane-Diffusio
 
 cyberpunk_anime_diffusion_webui_colab https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion/blob/main/Cyberpunk-Anime-Diffusion.ckpt
 
+midjourney_v4_diffusion_webui_colab https://huggingface.co/prompthero/midjourney-v4-diffusion/resolve/main/mdjrny-v4.ckpt
+
 ## Model Page
 stable_diffusion_webui_colab: https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
 
@@ -51,6 +55,8 @@ arcane_diffusion_3_webui_colab https://huggingface.co/nitrosocke/Arcane-Diffusio
 
 cyberpunk_anime_diffusion_webui_colab https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion
 
+midjourney_v4_diffusion_webui_colab https://huggingface.co/prompthero/midjourney-v4-diffusion
+
 ## Model License
 stable_diffusion_webui_colab: https://huggingface.co/spaces/CompVis/stable-diffusion-license
 
@@ -65,3 +71,5 @@ mo_di_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusi
 arcane_diffusion_3_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
 
 cyberpunk_anime_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
+
+midjourney_v4_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
