@@ -14,6 +14,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/midjourney_v4_diffusion_webui_colab.ipynb) midjourney_v4_diffusion_webui_colab (Use the tokens `mdjrny-v4 style` in your prompts for the effect.)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/papercut_diffusion_webui_colab.ipynb) papercut_diffusion_webui_colab (Use the tokens `PaperCut` in your prompts for the effect.)
+
 ## How to Use (Youtube Video)
 [![How to Use Stable Diffusion Webui Colab](https://i.imgur.com/Bth3B2R.jpg)](http://www.youtube.com/watch?v=ZUbLoMt_wa0)
 
@@ -38,7 +40,9 @@ arcane_diffusion_3_webui_colab https://huggingface.co/nitrosocke/Arcane-Diffusio
 
 cyberpunk_anime_diffusion_webui_colab https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion/blob/main/Cyberpunk-Anime-Diffusion.ckpt
 
-midjourney_v4_diffusion_webui_colab https://huggingface.co/prompthero/midjourney-v4-diffusion/resolve/main/mdjrny-v4.ckpt
+midjourney_v4_diffusion_webui_colab https://huggingface.co/prompthero/midjourney-v4-diffusion/blob/main/mdjrny-v4.ckpt
+
+papercut_diffusion_webui_colab https://huggingface.co/Fictiverse/Stable_Diffusion_PaperCut_Model/blob/main/PaperCut_v1.ckpt
 
 ## Model Page
 stable_diffusion_webui_colab: https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
@@ -57,6 +61,8 @@ cyberpunk_anime_diffusion_webui_colab https://huggingface.co/DGSpitzer/Cyberpunk
 
 midjourney_v4_diffusion_webui_colab https://huggingface.co/prompthero/midjourney-v4-diffusion
 
+papercut_diffusion_webui_colab https://huggingface.co/Fictiverse/Stable_Diffusion_PaperCut_Model
+
 ## Model License
 stable_diffusion_webui_colab: https://huggingface.co/spaces/CompVis/stable-diffusion-license
 
@@ -73,3 +79,5 @@ arcane_diffusion_3_webui_colab https://huggingface.co/spaces/CompVis/stable-diff
 cyberpunk_anime_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
 
 midjourney_v4_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
+
+papercut_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
