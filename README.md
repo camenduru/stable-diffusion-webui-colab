@@ -1,3 +1,4 @@
+## 🦒 Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_webui_colab.ipynb) stable_diffusion_webui_colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/waifu_diffusion_webui_colab.ipynb) waifu_diffusion_webui_colab
@@ -16,7 +17,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/papercut_diffusion_webui_colab.ipynb) papercut_diffusion_webui_colab (Use the tokens `PaperCut` in your prompts for the effect.)
 
-## 🦆 Kaggle Version
+## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
 
 ## How to Use (Youtube Video)
