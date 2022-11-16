@@ -14,6 +14,14 @@
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
 
+| Model Path | Model Page
+| --- | --- |
+models/PaperCut_v1.ckpt | https://huggingface.co/Fictiverse/Stable_Diffusion_PaperCut_Model
+models/moDi-v1-pruned.ckpt | https://huggingface.co/nitrosocke/mo-di-diffusion
+models/sd-v1-5-inpainting.ckpt | https://huggingface.co/runwayml/stable-diffusion-v1-5
+models/v1-5-pruned-emaonly.ckpt | https://huggingface.co/runwayml/stable-diffusion-v1-5
+models/wd-v1-3-float32.ckpt | https://huggingface.co/hakurei/waifu-diffusion-v1-3
+
 ## How to Use (Youtube Video)
 [![How to Use Stable Diffusion Webui Colab](https://i.imgur.com/Bth3B2R.jpg)](http://www.youtube.com/watch?v=ZUbLoMt_wa0)
 
