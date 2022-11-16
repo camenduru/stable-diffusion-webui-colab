@@ -1,21 +1,15 @@
 ## 🦒 Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_webui_colab.ipynb) stable_diffusion_webui_colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/waifu_diffusion_webui_colab.ipynb) waifu_diffusion_webui_colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_inpainting_webui_colab.ipynb) stable_diffusion_inpainting_webui_colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_1_5_webui_colab.ipynb) stable_diffusion_1_5_webui_colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/mo_di_diffusion_webui_colab.ipynb) mo_di_diffusion_webui_colab (Use the tokens `modern disney style` in your prompts for the effect.)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/arcane_diffusion_3_webui_colab.ipynb) arcane_diffusion_3_webui_colab (Use the tokens `arcane style` in your prompts for the effect.)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/cyberpunk_anime_diffusion_webui_colab.ipynb) cyberpunk_anime_diffusion_webui_colab (Use the tokens `dgs illustration style` in your prompts for the effect.)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/midjourney_v4_diffusion_webui_colab.ipynb) midjourney_v4_diffusion_webui_colab (Use the tokens `mdjrny-v4 style` in your prompts for the effect.)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/papercut_diffusion_webui_colab.ipynb) papercut_diffusion_webui_colab (Use the tokens `PaperCut` in your prompts for the effect.)
+| Colab Page | Model Page
+| --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_webui_colab.ipynb) stable_diffusion_webui_colab | https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/waifu_diffusion_webui_colab.ipynb) waifu_diffusion_webui_colab | https://huggingface.co/hakurei/waifu-diffusion-v1-3
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_inpainting_webui_colab.ipynb) stable_diffusion_inpainting_webui_colab | https://huggingface.co/runwayml/stable-diffusion-inpainting
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_1_5_webui_colab.ipynb) stable_diffusion_1_5_webui_colab | https://huggingface.co/runwayml/stable-diffusion-v1-5
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/mo_di_diffusion_webui_colab.ipynb) mo_di_diffusion_webui_colab (Use the tokens `modern disney style` in your prompts for the effect.) | https://huggingface.co/nitrosocke/mo-di-diffusion
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/arcane_diffusion_3_webui_colab.ipynb) arcane_diffusion_3_webui_colab (Use the tokens `arcane style` in your prompts for the effect.) | https://huggingface.co/nitrosocke/Arcane-Diffusion
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/cyberpunk_anime_diffusion_webui_colab.ipynb) cyberpunk_anime_diffusion_webui_colab (Use the tokens `dgs illustration style` in your prompts for the effect.) | https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/midjourney_v4_diffusion_webui_colab.ipynb) midjourney_v4_diffusion_webui_colab (Use the tokens `mdjrny-v4 style` in your prompts for the effect.) | https://huggingface.co/prompthero/midjourney-v4-diffusion
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/papercut_diffusion_webui_colab.ipynb) papercut_diffusion_webui_colab (Use the tokens `PaperCut` in your prompts for the effect.) | https://huggingface.co/Fictiverse/Stable_Diffusion_PaperCut_Model
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
@@ -29,74 +23,5 @@ https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
 ## Documentation
 [https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki).
 
-## Model From
-stable_diffusion_webui_colab: https://huggingface.co/CompVis/stable-diffusion-v-1-4-original/blob/main/sd-v1-4.ckpt
-
-waifu_diffusion_webui_colab: https://huggingface.co/hakurei/waifu-diffusion-v1-3/blob/main/wd-v1-3-float32.ckpt
-
-stable_diffusion_inpainting_webui_colab https://huggingface.co/runwayml/stable-diffusion-inpainting/blob/main/sd-v1-5-inpainting.ckpt
-
-stable_diffusion_1_5_webui_colab https://huggingface.co/runwayml/stable-diffusion-v1-5/blob/main/v1-5-pruned-emaonly.ckpt
-
-mo_di_diffusion_webui_colab https://huggingface.co/nitrosocke/mo-di-diffusion/blob/main/moDi-v1-pruned.ckpt
-
-arcane_diffusion_3_webui_colab https://huggingface.co/nitrosocke/Arcane-Diffusion/blob/main/arcane-diffusion-v3.ckpt
-
-cyberpunk_anime_diffusion_webui_colab https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion/blob/main/Cyberpunk-Anime-Diffusion.ckpt
-
-midjourney_v4_diffusion_webui_colab https://huggingface.co/prompthero/midjourney-v4-diffusion/blob/main/mdjrny-v4.ckpt
-
-papercut_diffusion_webui_colab https://huggingface.co/Fictiverse/Stable_Diffusion_PaperCut_Model/blob/main/PaperCut_v1.ckpt
-
-## Model Page
-stable_diffusion_webui_colab: https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
-
-waifu_diffusion_webui_colab: https://huggingface.co/hakurei/waifu-diffusion-v1-3
-
-stable_diffusion_inpainting_webui_colab https://huggingface.co/runwayml/stable-diffusion-inpainting
-
-stable_diffusion_1_5_webui_colab https://huggingface.co/runwayml/stable-diffusion-v1-5
-
-mo_di_diffusion_webui_colab https://huggingface.co/nitrosocke/mo-di-diffusion
-
-arcane_diffusion_3_webui_colab https://huggingface.co/nitrosocke/Arcane-Diffusion
-
-cyberpunk_anime_diffusion_webui_colab https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion
-
-midjourney_v4_diffusion_webui_colab https://huggingface.co/prompthero/midjourney-v4-diffusion
-
-papercut_diffusion_webui_colab https://huggingface.co/Fictiverse/Stable_Diffusion_PaperCut_Model
-
-## Model License
-stable_diffusion_webui_colab: https://huggingface.co/spaces/CompVis/stable-diffusion-license
-
-waifu_diffusion_webui_colab: https://huggingface.co/spaces/CompVis/stable-diffusion-license
-
-stable_diffusion_inpainting_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
-
-stable_diffusion_1_5_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
-
-mo_di_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
-
-arcane_diffusion_3_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
-
-cyberpunk_anime_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
-
-midjourney_v4_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
-
-papercut_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
-
-
-# Test
-
-| Colab | Model From | Model Page | Model License
-| --- | --- | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_webui_colab.ipynb) stable_diffusion_webui_colab | stable_diffusion_webui_colab: https://huggingface.co/CompVis/stable-diffusion-v-1-4-original/blob/main/sd-v1-4.ckpt | stable_diffusion_webui_colab: https://huggingface.co/CompVis/stable-diffusion-v-1-4-original | stable_diffusion_webui_colab: https://huggingface.co/spaces/CompVis/stable-diffusion-license
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/waifu_diffusion_webui_colab.ipynb) waifu_diffusion_webui_colab | waifu_diffusion_webui_colab: https://huggingface.co/hakurei/waifu-diffusion-v1-3/blob/main/wd-v1-3-float32.ckpt | waifu_diffusion_webui_colab: https://huggingface.co/hakurei/waifu-diffusion-v1-3 | waifu_diffusion_webui_colab: https://huggingface.co/spaces/CompVis/stable-diffusion-license
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_inpainting_webui_colab.ipynb) stable_diffusion_inpainting_webui_colab | stable_diffusion_inpainting_webui_colab https://huggingface.co/runwayml/stable-diffusion-inpainting/blob/main/sd-v1-5-inpainting.ckpt | stable_diffusion_inpainting_webui_colab https://huggingface.co/runwayml/stable-diffusion-inpainting | stable_diffusion_inpainting_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_1_5_webui_colab.ipynb) stable_diffusion_1_5_webui_colab | stable_diffusion_1_5_webui_colab https://huggingface.co/runwayml/stable-diffusion-v1-5/blob/main/v1-5-pruned-emaonly.ckpt | stable_diffusion_1_5_webui_colab https://huggingface.co/runwayml/stable-diffusion-v1-5 | stable_diffusion_1_5_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/mo_di_diffusion_webui_colab.ipynb) mo_di_diffusion_webui_colab (Use the tokens `modern disney style` in your prompts for the effect.) | mo_di_diffusion_webui_colab https://huggingface.co/nitrosocke/mo-di-diffusion/blob/main/moDi-v1-pruned.ckpt | mo_di_diffusion_webui_colab https://huggingface.co/nitrosocke/mo-di-diffusion | mo_di_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/arcane_diffusion_3_webui_colab.ipynb) arcane_diffusion_3_webui_colab (Use the tokens `arcane style` in your prompts for the effect.) | arcane_diffusion_3_webui_colab https://huggingface.co/nitrosocke/Arcane-Diffusion/blob/main/arcane-diffusion-v3.ckpt | arcane_diffusion_3_webui_colab https://huggingface.co/nitrosocke/Arcane-Diffusion | arcane_diffusion_3_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/cyberpunk_anime_diffusion_webui_colab.ipynb) cyberpunk_anime_diffusion_webui_colab (Use the tokens `dgs illustration style` in your prompts for the effect.) | cyberpunk_anime_diffusion_webui_colab https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion/blob/main/Cyberpunk-Anime-Diffusion.ckpt | cyberpunk_anime_diffusion_webui_colab https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion | cyberpunk_anime_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/midjourney_v4_diffusion_webui_colab.ipynb) midjourney_v4_diffusion_webui_colab (Use the tokens `mdjrny-v4 style` in your prompts for the effect.) | midjourney_v4_diffusion_webui_colab https://huggingface.co/prompthero/midjourney-v4-diffusion/blob/main/mdjrny-v4.ckpt | midjourney_v4_diffusion_webui_colab https://huggingface.co/prompthero/midjourney-v4-diffusion | midjourney_v4_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/papercut_diffusion_webui_colab.ipynb) papercut_diffusion_webui_colab (Use the tokens `PaperCut` in your prompts for the effect.) | papercut_diffusion_webui_colab https://huggingface.co/Fictiverse/Stable_Diffusion_PaperCut_Model/blob/main/PaperCut_v1.ckpt | papercut_diffusion_webui_colab https://huggingface.co/Fictiverse/Stable_Diffusion_PaperCut_Model | papercut_diffusion_webui_colab https://huggingface.co/spaces/CompVis/stable-diffusion-license
+## Models License
+https://huggingface.co/spaces/CompVis/stable-diffusion-license
