@@ -15,7 +15,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable-diffusion-v2-webui-colab.ipynb) stable-diffusion-v2-webui-colab | https://huggingface.co/stabilityai/stable-diffusion-2
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/woolitize_webui_colab.ipynb) woolitize_webui_colab (Use the tokens `woolitize style` in your prompts for the effect.) | https://huggingface.co/plasmo/woolitize
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/inkpunk_webui_colab.ipynb) inkpunk_webui_colab (Use the tokens `nvinkpunk style` in your prompts for the effect.) | https://huggingface.co/Envvi/Inkpunk-Diffusion
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/RandoMix3_webui_colab.ipynb) RandoMix3_webui_colab | https://huggingface.co/sentet1c/RandoMix3 (Thanks to Sint for the suggestion ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/rando_mix_3_webui_colab.ipynb) rando_mix_3_webui_colab | https://huggingface.co/sentet1c/RandoMix3 (Thanks to Sint for the suggestion ❤)
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
