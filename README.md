@@ -17,6 +17,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/inkpunk_webui_colab.ipynb) inkpunk_webui_colab (Use the tokens `nvinkpunk style` in your prompts for the effect.) | https://huggingface.co/Envvi/Inkpunk-Diffusion
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/rando_mix_3_webui_colab.ipynb) rando_mix_3_webui_colab | https://huggingface.co/sentet1c/RandoMix3 (Thanks to Sint for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/f222_webui_colab.ipynb) f222_webui_colab | https://huggingface.co/lilpotat/f2
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/berry_mix_1_5_webui_colab.ipynb) berry_mix_1_5_webui_colab | https://huggingface.co/lilpotat/rbm
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
