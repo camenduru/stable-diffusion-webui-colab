@@ -19,6 +19,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/f222_webui_colab.ipynb) f222_webui_colab | https://huggingface.co/lilpotat/f2
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/berry_mix_1_5_webui_colab.ipynb) berry_mix_1_5_webui_colab | https://huggingface.co/lilpotat/rbm
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_v2_1_webui_colab.ipynb) stable_diffusion_v2_1_webui_colab | https://huggingface.co/stabilityai/stable-diffusion-2-1
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_v2_1_base_webui_colab.ipynb) stable_diffusion_v2_1_base_webui_colab | https://huggingface.co/stabilityai/stable-diffusion-2-1-base
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
