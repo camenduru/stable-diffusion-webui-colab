@@ -21,6 +21,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_v2_1_webui_colab.ipynb) stable_diffusion_v2_1_webui_colab | https://huggingface.co/stabilityai/stable-diffusion-2-1
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_v2_1_base_webui_colab.ipynb) stable_diffusion_v2_1_base_webui_colab | https://huggingface.co/stabilityai/stable-diffusion-2-1-base
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/hassan_blend_1_4_webui_colab.ipynb) hassan_blend_1_4_webui_colab | https://huggingface.co/hassanblend/hassanblend1.4 (Thanks to maximaljahn for the suggestion ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/yiffy_e18_webui_colab.ipynb) yiffy_e18_webui_colab | https://huggingface.co/Doubleyobro/yiffy-e18
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/pony_diffusion_2_webui_colab.ipynb) pony_diffusion_2_webui_colab | https://huggingface.co/AstraliteHeart/pony-diffusion-v2
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/elysium_anime_2_webui_colab.ipynb) elysium_anime_2_webui_colab | https://huggingface.co/hesw23168/SD-Elysium-Model
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
