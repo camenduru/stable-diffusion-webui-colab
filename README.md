@@ -45,8 +45,6 @@ https://huggingface.co/spaces/camenduru/webui
 ## How To Use 🤗 Hugging Face Upload Extension
 Youtube Video Link: https://youtu.be/KeGpKGzK7R8
 
-https://user-images.githubusercontent.com/54370274/207293473-9997ace6-b8a4-410d-8dc7-c4e0ead6d399.mp4
-
 ## How To Use With Google Drive
 Youtube Video Link: https://youtu.be/zjeziAAKx-o
 
