@@ -27,6 +27,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/eimis_anime_diffusion_1_webui_colab.ipynb) eimis_anime_diffusion_1_webui_colab | https://huggingface.co/eimiss/EimisAnimeDiffusion_1.0v (Thanks to Tjbr0ss2 for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/dreamlike_diffusion_1_webui_colab.ipynb) dreamlike_diffusion_1_webui_colab (Use the tokens `dreamlikeart style` in your prompts for the effect.) | https://huggingface.co/dreamlike-art/dreamlike-diffusion-1.0
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/van_gogh_diffusion_webui_colab.ipynb) van_gogh_diffusion_webui_colab (Use the tokens `lvngvncnt style` in your prompts for the effect.) | https://huggingface.co/dallinmackay/Van-Gogh-diffusion
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/analog_diffusion_webui_colab.ipynb) analog_diffusion_webui_colab (Use the tokens `analog style` in your prompts for the effect.) | https://huggingface.co/wavymulder/Analog-Diffusion
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
