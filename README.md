@@ -29,6 +29,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/dreamlike_diffusion_1_webui_colab.ipynb) dreamlike_diffusion_1_webui_colab (Use the tokens `dreamlikeart style` in your prompts for the effect.) | https://huggingface.co/dreamlike-art/dreamlike-diffusion-1.0
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/van_gogh_diffusion_webui_colab.ipynb) van_gogh_diffusion_webui_colab (Use the tokens `lvngvncnt style` in your prompts for the effect.) | https://huggingface.co/dallinmackay/Van-Gogh-diffusion
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/analog_diffusion_webui_colab.ipynb) analog_diffusion_webui_colab (Use the tokens `analog style` in your prompts for the effect.) | https://huggingface.co/wavymulder/Analog-Diffusion
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/monstermash_any_3_webui_colab.ipynb) monstermash_any_3_webui_colab | https://huggingface.co/N75242/monstermash_anyv3
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
