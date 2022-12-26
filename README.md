@@ -30,6 +30,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/van_gogh_diffusion_webui_colab.ipynb) van_gogh_diffusion_webui_colab (Use the tokens `lvngvncnt style` in your prompts for the effect.) | https://huggingface.co/dallinmackay/Van-Gogh-diffusion
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/analog_diffusion_webui_colab.ipynb) analog_diffusion_webui_colab (Use the tokens `analog style` in your prompts for the effect.) | https://huggingface.co/wavymulder/Analog-Diffusion
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/monstermash_any_3_webui_colab.ipynb) monstermash_any_3_webui_colab | https://huggingface.co/N75242/monstermash_anyv3
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/yohan_diffusion_webui_colab.ipynb) yohan_diffusion_webui_colab | https://huggingface.co/andite/yohan-diffusion (Thanks to EBIX_benis for the suggestion ❤)
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
