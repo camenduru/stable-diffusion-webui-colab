@@ -47,9 +47,9 @@ https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
 | --- | --- |
 models/PaperCut_v1.ckpt | https://huggingface.co/Fictiverse/Stable_Diffusion_PaperCut_Model
 models/moDi-v1-pruned.ckpt | https://huggingface.co/nitrosocke/mo-di-diffusion
-models/sd-v1-5-inpainting.ckpt | https://huggingface.co/runwayml/stable-diffusion-v1-5
+models/sd-v1-5-inpainting.ckpt | https://huggingface.co/runwayml/stable-diffusion-inpainting
 models/v1-5-pruned-emaonly.ckpt | https://huggingface.co/runwayml/stable-diffusion-v1-5
-models/wd-v1-3-float32.ckpt | https://huggingface.co/hakurei/waifu-diffusion-v1-3
+models/anything-v3-vae-swapped.ckpt | https://huggingface.co/Linaqruf/anything-v3.0
 
 ## 🤗 Hugging Face
 https://huggingface.co/spaces/camenduru/webui
