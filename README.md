@@ -32,7 +32,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/monstermash_any_3_webui_colab.ipynb) monstermash_any_3_webui_colab | https://huggingface.co/N75242/monstermash_anyv3
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/yohan_diffusion_webui_colab.ipynb) yohan_diffusion_webui_colab | https://huggingface.co/andite/yohan-diffusion (Thanks to EBIX_benis for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/openjourney_v2_diffusion_webui_colab.ipynb) openjourney_v2_diffusion_webui_colab | https://huggingface.co/prompthero/openjourney-v2
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/vintedois_diffusion_0_1_webui_colab.ipynb) vintedois_diffusion_0_1_webui_colab | https://huggingface.co/22h/vintedois-diffusion-v0-1
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/vintedois_diffusion_0_1_webui_colab.ipynb) vintedois_diffusion_0_1_webui_colab (Use the tokens `estilovintedois` in your prompts for the effect.) | https://huggingface.co/22h/vintedois-diffusion-v0-1
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
