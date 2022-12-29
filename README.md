@@ -34,6 +34,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/openjourney_v2_diffusion_webui_colab.ipynb) openjourney_v2_diffusion_webui_colab | https://huggingface.co/prompthero/openjourney-v2
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/vintedois_diffusion_0_1_webui_colab.ipynb) vintedois_diffusion_0_1_webui_colab (Use the tokens `estilovintedois` in your prompts for the effect.) | https://huggingface.co/22h/vintedois-diffusion-v0-1
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/knollingcase_webui_colab.ipynb) knollingcase_webui_colab (Use the tokens `knollingcase` in your prompts for the effect.) | https://huggingface.co/Aybeeceedee/knollingcase
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/comic_diffusion_v2_webui_colab.ipynb) comic_diffusion_v2_webui_colab (Use the tokens `charliebo artstyle` `holliemengert artstyle` `marioalberti artstyle` `pepelarraz artstyle` `andreasrocha artstyle` `jamesdaly artstyle` in your prompts for the effect.) | https://huggingface.co/ogkalu/Comic-Diffusion
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
