@@ -39,6 +39,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/synthwave_punk_v2_webui_colab.ipynb) synthwave_punk_v2_webui_colab (Use the tokens `snthwve style` `nvinkpunk` in your prompts for the effect.) | https://huggingface.co/ItsJayQz/SynthwavePunk-v2
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/illustration_diffusion_webui_colab.ipynb) illustration_diffusion_webui_colab (Use the tokens `holliemengert artstyle` in your prompts for the effect.) | https://huggingface.co/ogkalu/Illustration-Diffusion
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/seek_art_mega_v1_webui_colab.ipynb) seek_art_mega_v1_webui_colab | https://huggingface.co/coreco/seek.art_MEGA
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/popup_book_diffusion_webui_colab.ipynb) popup_book_diffusion_webui_colab (Use the tokens `popupBook` in your prompts for the effect.) | https://huggingface.co/RayHell/popupBook-diffusion
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
