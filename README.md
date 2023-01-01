@@ -43,6 +43,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/seek_art_mega_v1_webui_colab.ipynb) seek_art_mega_v1_webui_colab | https://huggingface.co/coreco/seek.art_MEGA
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/popup_book_diffusion_webui_colab.ipynb) popup_book_diffusion_webui_colab (Use the tokens `popupBook` in your prompts for the effect.) | https://huggingface.co/RayHell/popupBook-diffusion
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/riffusion_v1_webui_colab.ipynb) riffusion_v1_webui_colab (Use with `Script -> Riffusion Audio Generator`) | https://huggingface.co/riffusion/riffusion-model-v1 (Thanks to Neverstorm for the suggestion ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/waifu_diffusion_v1_4_webui_colab.ipynb) waifu_diffusion_v1_4_webui_colab | https://huggingface.co/hakurei/waifu-diffusion-v1-4
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
