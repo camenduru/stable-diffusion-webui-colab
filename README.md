@@ -50,6 +50,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/elldreths_lucid_mix_v10_webui_colab.ipynb) elldreths_lucid_mix_v10_webui_colab | https://huggingface.co/ckpt/elldrethSLucidMix_v10
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/all_in_one_pixel_model_webui_colab.ipynb) all_in_one_pixel_model_webui_colab (Use the tokens `pixelsprite` `16bitscene` in your prompts for the effect.) | https://huggingface.co/PublicPrompts/All-In-One-Pixel-Model
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/cafe_instagram_v6_webui_colab.ipynb) cafe_instagram_v6_webui_colab | https://huggingface.co/cafeai/cafe-instagram-sd-1-5-v6
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/cinematic_diffusion_webui_colab.ipynb) cinematic_diffusion_webui_colab | https://huggingface.co/Basunat/Cinematic-Diffusion
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/food_crit_webui_colab.ipynb) food_crit_webui_colab | https://huggingface.co/plasmo/food-crit
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
