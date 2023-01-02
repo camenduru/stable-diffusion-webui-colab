@@ -52,6 +52,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/cafe_instagram_v6_webui_colab.ipynb) cafe_instagram_v6_webui_colab | https://huggingface.co/cafeai/cafe-instagram-sd-1-5-v6
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/cinematic_diffusion_webui_colab.ipynb) cinematic_diffusion_webui_colab (Use the tokens `syberart` in your prompts for the effect.) | https://huggingface.co/Basunat/Cinematic-Diffusion
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/food_crit_webui_colab.ipynb) food_crit_webui_colab (Use the tokens `food_crit` in your prompts for the effect.) | https://huggingface.co/plasmo/food-crit
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/simpmaker_3k_webui_colab.ipynb) simpmaker_3k_webui_colab | https://huggingface.co/AmethystVera/SimpMaker-3K1
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
