@@ -57,6 +57,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/uber_realistic_v1_webui_colab.ipynb) uber_realistic_v1_webui_colab | https://huggingface.co/lilpotat/urp (Thanks to cdefghijkl for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/izumi_v1_webui_colab.ipynb) izumi_v1_webui_colab | https://huggingface.co/lilpotat/iz
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/yiffy_mix_webui_colab.ipynb) yiffy_mix_webui_colab | https://civitai.com/models/3671/yiffymix
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/babes_blend_webui_colab.ipynb) babes_blend_webui_colab | https://civitai.com/models/2220/babes
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/samdoessexy_blend_webui_colab.ipynb) samdoessexy_blend_webui_colab | https://civitai.com/models/1180/samdoessexy-blend
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/comics_blend_webui_colab.ipynb) comics_blend_webui_colab | https://civitai.com/models/1491/comicsblend
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
