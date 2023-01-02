@@ -59,7 +59,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/yiffy_mix_webui_colab.ipynb) yiffy_mix_webui_colab | https://civitai.com/models/3671/yiffymix
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/babes_blend_webui_colab.ipynb) babes_blend_webui_colab | https://civitai.com/models/2220/babes
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/samdoessexy_blend_webui_colab.ipynb) samdoessexy_blend_webui_colab | https://civitai.com/models/1180/samdoessexy-blend
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/comics_blend_webui_colab.ipynb) comics_blend_webui_colab | https://civitai.com/models/1491/comicsblend
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/comics_blend_webui_colab.ipynb) comics_blend_webui_colab (Use the tokens `ComplexLA style` `nvinkpunk` `marioalberti artstyle` `ghibli style` in your prompts for the effect.) | https://civitai.com/models/1491/comicsblend
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/dream_like_sam_kuvshino_webui_colab.ipynb) dream_like_sam_kuvshino_webui_colab | https://civitai.com/models/1473/dreamlikesamkuvshinov
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
