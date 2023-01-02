@@ -55,7 +55,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/simpmaker_3k_webui_colab.ipynb) simpmaker_3k_webui_colab | https://huggingface.co/AmethystVera/SimpMaker-3K1
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/duchaitenaiart_beta_v6_webui_colab.ipynb) duchaitenaiart_beta_v6_webui_colab | https://huggingface.co/DucHaiten/DucHaitenAIart-beta (Thanks to DucHaiten for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/uber_realistic_v1_webui_colab.ipynb) uber_realistic_v1_webui_colab | https://huggingface.co/lilpotat/urp (Thanks to cdefghijkl for the suggestion ❤)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/uber_realistic_v1_webui_colab.ipynb) uber_realistic_v1_webui_colab | https://huggingface.co/lilpotat/urp (Thanks to cdefghijkl for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/izumi_v1_webui_colab.ipynb) izumi_v1_webui_colab | https://huggingface.co/lilpotat/iz
 
 ## 🦆 Kaggle
