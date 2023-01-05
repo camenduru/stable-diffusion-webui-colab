@@ -67,6 +67,7 @@ https://huggingface.co/SirVeggie/wlop
 ### Systemy-CSR (Censored)
 
 https://huggingface.co/etherealxx/systemy-csrmodel-cutesexyrobutts
+(This model has different prompting than the default one. Look at the repo for examples)
 
 <img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/csrmodel%20seed%201c.png" alt="csrmodel%20seed%201c.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/csrmodel%20seed%202c.png" alt="csrmodel%20seed%202c.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/csrmodel%20seed%203.png" alt="csrmodel%20seed%203.png" width="300"/>
 
@@ -75,3 +76,16 @@ https://huggingface.co/etherealxx/systemy-csrmodel-cutesexyrobutts
 https://huggingface.co/WarriorMama777/OrangeMixs
 
 <img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/elyorangemix%20seed%201.png" alt="elyorangemix%20seed%201.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/elyorangemix%20seed%202c.png" alt="elyorangemix%20seed%202c.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/elyorangemix%20seed%203c.png" alt="elyorangemix%20seed%203c.png" width="300"/>
+
+### Leafmix
+
+https://huggingface.co/etherealxx/anyleaf-temp
+
+<img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/leaf%20seed%201.png" alt="leaf%20seed%201.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/leaf%20seed%202.png" alt="leaf%20seed%202.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/leaf%20seed%203.png" alt="leaf%20seed%203.png" width="300"/>
+
+### Abyss 7th Layer
+
+https://huggingface.co/syaimu/7th_Layer
+(This model has different prompting setting than the default one. Look at the repo for examples)
+
+<img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/abyss%20seed%201.png" alt="abyss%20seed%201.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/abyss%20seed%202.png" alt="abyss%20seed%202.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/abyss%20seed%203.png" alt="abyss%20seed%203.png" width="300"/>
