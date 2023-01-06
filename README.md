@@ -62,6 +62,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/comics_blend_webui_colab.ipynb) comics_blend_webui_colab (Use the tokens `ComplexLA style` `nvinkpunk` `marioalberti artstyle` `ghibli style` in your prompts for the effect.) | https://civitai.com/models/1491/comicsblend
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/dream_like_sam_kuvshino_webui_colab.ipynb) dream_like_sam_kuvshino_webui_colab | https://civitai.com/models/1473/dreamlikesamkuvshinov
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/8528_diffusion_webui_colab.ipynb) 8528_diffusion_webui_colab | https://huggingface.co/852wa/8528-diffusion (Thanks to 黄色いバラ for the suggestion ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/hasdx_webui_colab.ipynb) hasdx_webui_colab | https://civitai.com/models/3758/hasdx (Thanks to EBIX_benis for the suggestion ❤)
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
