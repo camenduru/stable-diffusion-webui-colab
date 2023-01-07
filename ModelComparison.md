@@ -46,11 +46,13 @@ https://huggingface.co/JosephusCheung/ACertainModel
 
 <img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/acertain%20seed%201.png" alt="acertain%20seed%201.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/acertain%20seed%202.png" alt="acertain%20seed%202.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/acertain%20seed%203.png" alt="acertain%20seed%203.png" width="300"/>
 
+<!--
 ### Berrymix (Censored)
 
 https://huggingface.co/misobarisic/berry-mix
 
 <img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/berrymix%20seed%201c.png" alt="berrymix%20seed%201c.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/berrymix%20seed%202c.png" alt="berrymix%20seed%202c.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/berrymix%20seed%203.png" alt="berrymix%20seed%203.png" width="300"/>
+-->
 
 ### Elysium V3
 
@@ -64,6 +66,7 @@ https://huggingface.co/SirVeggie/wlop
 
 <img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/wlop%20any%20seed%201.png" alt="wlop%20any%20seed%201.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/wlop%20any%20seed%202.png" alt="wlop%20any%20seed%202.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/wlop%20any%20seed%203.png" alt="wlop%20any%20seed%203.png" width="300"/>
 
+<!--
 ### Systemy-CSR (Censored)
 
 https://huggingface.co/etherealxx/systemy-csrmodel-cutesexyrobutts
@@ -76,6 +79,7 @@ https://huggingface.co/etherealxx/systemy-csrmodel-cutesexyrobutts
 https://huggingface.co/WarriorMama777/OrangeMixs
 
 <img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/elyorangemix%20seed%201.png" alt="elyorangemix%20seed%201.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/elyorangemix%20seed%202c.png" alt="elyorangemix%20seed%202c.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/elyorangemix%20seed%203c.png" alt="elyorangemix%20seed%203c.png" width="300"/>
+-->
 
 ### Leafmix
 
@@ -89,3 +93,45 @@ https://huggingface.co/syaimu/7th_Layer
 (This model has different prompting setting than the default one. Look at the repo for examples)
 
 <img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/abyss%20seed%201.png" alt="abyss%20seed%201.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/abyss%20seed%202.png" alt="abyss%20seed%202.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/abyss%20seed%203.png" alt="abyss%20seed%203.png" width="300"/>
+
+### Healy's Anime
+
+https://civitai.com/models/1400/healys-anime-blend
+
+<img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/HealySblend%20seed%201.png" alt="HealySblend%20seed%201.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/HealySblend%20seed%202.png" alt="HealySblend%20seed%202.pngg" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/HealySblend%20seed%203.png" alt="HealySblend%20seed%203.png" width="300"/>
+
+### Ligne Claire
+
+https://huggingface.co/breakcore2/ligne_claire_anime_diffusion
+
+<img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/ligneclaireanime%20seed%201.png" alt="ligneclaireanime%20seed%201" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/ligneclaireanime%20seed%202.png" alt="ligneclaireanime%20seed%202" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/ligneclaireanime%20seed%203.png" alt="ligneclaireanime%20seed%203" width="300"/>
+
+### Kribomix
+
+https://civitai.com/models/1225/kribomix-nstal
+
+<img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/kribomixpruned%20seed%201.png" alt="kribomixpruned%20seed%201.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/kribomixpruned%20seed%202.png" alt="kribomixpruned%20seed%202.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/kribomixpruned%20seed%203.png" alt="kribomixpruned%20seed%203.png" width="300"/>
+
+### Inizio Skinjob
+
+https://huggingface.co/Cinnamomo/inizio
+
+<img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/inizio%20skinjob%20seed%201.png" alt="inizio%20skinjob%20seed%203.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/inizio%20skinjob%20seed%202.png" alt="inizio%20skinjob%20seed%203.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/inizio%20skinjob%20seed%203.png" alt="inizio%20skinjob%20seed%203.png" width="300"/>
+
+### Panty Stocking
+
+https://civitai.com/models/1460/digimds-panty-stocking
+
+<img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/pantystocking%20seed%201.png" alt="pantystocking%20seed%201.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/pantystocking%20seed%202.png" alt="pantystocking%20seed%202.png" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/pantystocking%20seed%203.png" alt="pantystocking%20seed%203.png" width="300"/>
+
+### Waifu Body Blender
+
+https://civitai.com/models/1692/waifubodyblender-mix
+
+<img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/waifubodyblender%20seed%201.png" alt="" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/waifubodyblender%20seed%202.png" alt="" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/waifubodyblender%20seed%203.png" alt="" width="300"/>
+
+### StuffyMix
+
+https://civitai.com/models/3076/stuffymix
+
+<img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/stuffymix%20seed%201.png" alt="" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/stuffymix%20seed%202.png" alt="" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/stuffymix%20seed%203.png" alt="" width="300"/>
