@@ -135,3 +135,8 @@ https://civitai.com/models/1692/waifubodyblender-mix
 https://civitai.com/models/3076/stuffymix
 
 <img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/stuffymix%20seed%201.png" alt="" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/stuffymix%20seed%202.png" alt="" width="300"/><img src="https://raw.githubusercontent.com/etherealxx/etherportal-webui-colab/master/modelexamples/stuffymix%20seed%203.png" alt="" width="300"/>
+
+
+## Model Comparison (NSFW)
+#### Warning! The next page will contain several (censored) nsfw imagery. Must be 18+. Visit at your own risk.
+[Model Comparison (NSFW)](https://rentry.org/modelcomparensfw)
