@@ -65,6 +65,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/hasdx_webui_colab.ipynb) hasdx_webui_colab | https://civitai.com/models/3758/hasdx (Thanks to EBIX_benis for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/abyss_orange_mix_2_webui_colab.ipynb) abyss_orange_mix_2_webui_colab | https://huggingface.co/WarriorMama777/OrangeMixs
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/dreamlike_photoreal_2_webui_colab.ipynb) dreamlike_photoreal_2_webui_colab | https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/photorealistic_fuen_v1_webui_colab.ipynb) photorealistic_fuen_v1_webui_colab | https://huggingface.co/claudfuen/photorealistic-fuen-v1
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
