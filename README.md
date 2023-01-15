@@ -103,6 +103,7 @@ Youtube Video Link: https://youtu.be/ZUbLoMt_wa0
 [https://github.com/yfszzx/stable-diffusion-webui-images-browser](https://github.com/yfszzx/stable-diffusion-webui-images-browser) <br />
 [https://github.com/camenduru/stable-diffusion-webui-huggingface](https://github.com/camenduru/stable-diffusion-webui-huggingface) <br />
 [https://github.com/Vetchems/sd-civitai-browser](https://github.com/Vetchems/sd-civitai-browser) <br />
+[https://github.com/kohya-ss/sd-webui-additional-networks](https://github.com/kohya-ss/sd-webui-additional-networks) <br />
 
 ## Models License
 https://huggingface.co/spaces/CompVis/stable-diffusion-license
