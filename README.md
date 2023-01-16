@@ -105,5 +105,8 @@ Youtube Video Link: https://youtu.be/ZUbLoMt_wa0
 [https://github.com/Vetchems/sd-civitai-browser](https://github.com/Vetchems/sd-civitai-browser) <br />
 [https://github.com/kohya-ss/sd-webui-additional-networks](https://github.com/kohya-ss/sd-webui-additional-networks) <br />
 
+## Installed Scripts
+[https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py](https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py) <br />
+
 ## Models License
 https://huggingface.co/spaces/CompVis/stable-diffusion-license
