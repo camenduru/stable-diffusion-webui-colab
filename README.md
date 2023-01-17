@@ -68,6 +68,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/photorealistic_fuen_v1_webui_colab.ipynb) photorealistic_fuen_v1_webui_colab | https://huggingface.co/claudfuen/photorealistic-fuen-v1
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/cool_japan_diffusion_2_1_webui_colab.ipynb) cool_japan_diffusion_2_1_webui_colab | https://huggingface.co/aipicasso/cool-japan-diffusion-2-1-0
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/anything_gape_webui_colab.ipynb) anything_gape_webui_colab | https://huggingface.co/Inzamam567/AnyGape (Thanks to soliwoli for the suggestion ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/anything_4_webui_colab.ipynb) anything_4_webui_colab | https://huggingface.co/andite/anything-v4.0
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
