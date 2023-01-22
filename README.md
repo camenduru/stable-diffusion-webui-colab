@@ -83,6 +83,7 @@ models/anything-v3-vae-swapped.ckpt | https://huggingface.co/Linaqruf/anything-v
 
 ## 🤗 Hugging Face
 https://huggingface.co/spaces/camenduru/webui
+https://huggingface.co/spaces/camenduru/webui-docker
 
 ## How To Use 🤗 Hugging Face Upload Extension
 Youtube Video Link: https://youtu.be/KeGpKGzK7R8
