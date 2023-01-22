@@ -82,7 +82,7 @@ models/v1-5-pruned-emaonly.ckpt | https://huggingface.co/runwayml/stable-diffusi
 models/anything-v3-vae-swapped.ckpt | https://huggingface.co/Linaqruf/anything-v3.0
 
 ## 🤗 Hugging Face
-https://huggingface.co/spaces/camenduru/webui
+https://huggingface.co/spaces/camenduru/webui <br />
 https://huggingface.co/spaces/camenduru/webui-docker
 
 ## How To Use 🤗 Hugging Face Upload Extension
