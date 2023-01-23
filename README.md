@@ -71,6 +71,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/anything_4_webui_colab.ipynb) anything_4_webui_colab | https://huggingface.co/andite/anything-v4.0
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/counterfeit_v2_0_webui_colab.ipynb) counterfeit_v2_0_webui_colab | https://huggingface.co/gsdf/Counterfeit-V2.0 (Thanks to 黄色いバラ for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/grapefruit_webui_colab.ipynb) grapefruit_webui_colab | https://huggingface.co/ckpt/grapefruit
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/open_anime_journey_webui_colab.ipynb) open_anime_journey_webui_colab | https://huggingface.co/MehjourneyClosedAI/OpenAnimeJourney (Thanks to 黄色いバラ for the suggestion ❤)
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
