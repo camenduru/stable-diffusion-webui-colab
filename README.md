@@ -88,6 +88,9 @@ models/anything-v3-vae-swapped.ckpt | https://huggingface.co/ckpt/anything-v3.0
 https://huggingface.co/spaces/camenduru/webui <br />
 https://huggingface.co/spaces/camenduru/webui-docker
 
+## How To Use Additional Networks (LoRA) and CivitAI Extension
+Youtube Video Link: https://youtu.be/2VwqHN7HDMc
+
 ## How To Use 🤗 Hugging Face Upload Extension
 Youtube Video Link: https://youtu.be/KeGpKGzK7R8
 
