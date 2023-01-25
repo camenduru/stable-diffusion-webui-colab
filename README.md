@@ -88,17 +88,11 @@ models/anything-v3-vae-swapped.ckpt | https://huggingface.co/ckpt/anything-v3.0
 https://huggingface.co/spaces/camenduru/webui <br />
 https://huggingface.co/spaces/camenduru/webui-docker
 
-## How To Use Additional Networks (LoRA) and CivitAI Extension
-Youtube Video Link: https://youtu.be/2VwqHN7HDMc
-
-## How To Use 🤗 Hugging Face Upload Extension
-Youtube Video Link: https://youtu.be/KeGpKGzK7R8
-
-## How To Use With Google Drive
-Youtube Video Link: https://youtu.be/zjeziAAKx-o
-
-## How to Use
-Youtube Video Link: https://youtu.be/ZUbLoMt_wa0
+## Tutorials
+How to Use: https://youtu.be/ZUbLoMt_wa0 <br />
+How To Use With Google Drive: https://youtu.be/zjeziAAKx-o <br />
+How To Use 🤗 Hugging Face Upload Extension: https://youtu.be/KeGpKGzK7R8 <br />
+How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2VwqHN7HDMc <br />
 
 ## Stable Diffusion Web UI
 [https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
