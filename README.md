@@ -108,9 +108,9 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki).
 
 ## Installed Extensions
-[https://github.com/deforum-art/deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui) <br />
-[https://github.com/yfszzx/stable-diffusion-webui-images-browser](https://github.com/yfszzx/stable-diffusion-webui-images-browser) <br />
-[https://github.com/camenduru/stable-diffusion-webui-huggingface](https://github.com/camenduru/stable-diffusion-webui-huggingface) <br />
+[-b v1.6 https://github.com/camenduru/deforum-for-automatic1111-webui](-b v1.6 https://github.com/camenduru/deforum-for-automatic1111-webui) <br />
+[-b v1.6 https://github.com/camenduru/stable-diffusion-webui-images-browser](-b v1.6 https://github.com/camenduru/stable-diffusion-webui-images-browser) <br />
+[-b v1.6 https://github.com/camenduru/stable-diffusion-webui-huggingface](-b v1.6 https://github.com/camenduru/stable-diffusion-webui-huggingface) <br />
 [https://github.com/Vetchems/sd-civitai-browser](https://github.com/Vetchems/sd-civitai-browser) <br />
 [https://github.com/kohya-ss/sd-webui-additional-networks](https://github.com/kohya-ss/sd-webui-additional-networks) <br />
 
