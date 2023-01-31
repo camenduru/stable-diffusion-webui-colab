@@ -77,11 +77,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/a_certainty_webui_colab.ipynb) a_certainty_webui_colab | https://huggingface.co/JosephusCheung/ACertainty
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/a_certain_model_webui_colab.ipynb) a_certain_model_webui_colab | https://huggingface.co/JosephusCheung/ACertainModel
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/a_certain_thing_webui_colab.ipynb) a_certain_thing_webui_colab | https://huggingface.co/JosephusCheung/ACertainThing
-
-After v2.0
-
-| Colab Page | Model Page
-| --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/7th_layer_webui_colab.ipynb) 7th_layer_webui_colab | https://huggingface.co/syaimu/7th_Layer (Thanks to Cherryblossomoflove for the suggestion ❤)
 
 
