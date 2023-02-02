@@ -76,9 +76,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/a_certain_model_webui_colab.ipynb) a_certain_model_webui_colab | https://huggingface.co/JosephusCheung/ACertainModel
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/a_certain_thing_webui_colab.ipynb) a_certain_thing_webui_colab | https://huggingface.co/JosephusCheung/ACertainThing
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/7th_layer_webui_colab.ipynb) 7th_layer_webui_colab | https://huggingface.co/syaimu/7th_Layer (Thanks to Cherryblossomoflove for the suggestion ❤)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/pix2pix_webui_colab.ipynb) pix2pix_webui_colab | https://huggingface.co/timbrooks/instruct-pix2pix (Thanks to Klace for the pix2pix extension ❤)
-
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/pix2pix_webui_colab.ipynb) pix2pix_webui_colab | https://huggingface.co/timbrooks/instruct-pix2pix (Thanks to Klace for the [pix2pix extension](https://github.com/Klace/stable-diffusion-webui-instruct-pix2pix) ❤)
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
