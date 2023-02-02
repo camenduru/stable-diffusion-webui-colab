@@ -94,7 +94,7 @@ https://huggingface.co/spaces/camenduru/webui <br />
 https://huggingface.co/spaces/camenduru/webui-docker
 
 ## How to use latest version?
-Please select v2.0 from `switch branches/tags`
+Please select `v2.0` from `switch branches/tags`
 
 ![Screenshot 2023-01-31 223714](https://user-images.githubusercontent.com/54370274/215864749-d881b6d7-5d58-497c-98ac-b97064ed8b4a.jpg)
 
