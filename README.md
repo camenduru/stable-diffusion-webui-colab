@@ -76,6 +76,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/a_certain_model_webui_colab.ipynb) a_certain_model_webui_colab | https://huggingface.co/JosephusCheung/ACertainModel
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/a_certain_thing_webui_colab.ipynb) a_certain_thing_webui_colab | https://huggingface.co/JosephusCheung/ACertainThing
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/7th_layer_webui_colab.ipynb) 7th_layer_webui_colab | https://huggingface.co/syaimu/7th_Layer (Thanks to Cherryblossomoflove for the suggestion ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/pix2pix_webui_colab.ipynb) pix2pix_webui_colab | https://huggingface.co/timbrooks/instruct-pix2pix (Thanks to Klace for the pix2pix extension ❤)
+
 
 
 ## 🦆 Kaggle
@@ -111,6 +113,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/camenduru/stable-diffusion-webui-huggingface](https://github.com/camenduru/stable-diffusion-webui-huggingface) <br />
 [https://github.com/Vetchems/sd-civitai-browser](https://github.com/Vetchems/sd-civitai-browser) <br />
 [https://github.com/kohya-ss/sd-webui-additional-networks](https://github.com/kohya-ss/sd-webui-additional-networks) <br />
+[https://github.com/Klace/stable-diffusion-webui-instruct-pix2pix](https://github.com/Klace/stable-diffusion-webui-instruct-pix2pix) <br />
 
 ## Installed Scripts
 [https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py](https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py) <br />
