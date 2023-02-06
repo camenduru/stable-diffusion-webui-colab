@@ -1,5 +1,10 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru
 
+## How to use latest version?
+Please select `v2.0` from `switch branches/tags`
+
+![Screenshot 2023-02-02 185650](https://user-images.githubusercontent.com/54370274/216375296-a2197999-bacc-47c1-9306-07194a1cf0ad.jpg)
+
 ## 🦒 Colab
 | Colab Page | Model Page
 | --- | --- |
@@ -92,11 +97,6 @@ models/anything-v3-vae-swapped.ckpt | https://huggingface.co/ckpt/anything-v3.0
 ## 🤗 Hugging Face
 https://huggingface.co/spaces/camenduru/webui <br />
 https://huggingface.co/spaces/camenduru/webui-docker
-
-## How to use latest version?
-Please select `v2.0` from `switch branches/tags`
-
-![Screenshot 2023-02-02 185650](https://user-images.githubusercontent.com/54370274/216375296-a2197999-bacc-47c1-9306-07194a1cf0ad.jpg)
 
 ## Tutorials
 How to Use: https://youtu.be/ZUbLoMt_wa0 <br />
