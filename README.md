@@ -67,7 +67,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## [--> Click Here to Visit the Colab <--](https://github.com/etherealxx/etherportal-webui-colab/issues)
+## [--> Click Here to Visit the Colab <--](https://colab.research.google.com/github/etherealxx/etherportal-webui-colab/blob/master/etherportal.ipynb)
 
 Simple quickstart guide are written there. Or, you can scroll to read more😊
 
