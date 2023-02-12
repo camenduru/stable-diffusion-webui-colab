@@ -83,6 +83,10 @@ Please select `v2.0` from `switch branches/tags`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/7th_layer_webui_colab.ipynb) 7th_layer_webui_colab | https://huggingface.co/syaimu/7th_Layer (Thanks to Cherryblossomoflove for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/rpg_v4_webui_colab.ipynb) rpg_v4_webui_colab | https://huggingface.co/Anashel/rpg (Thanks to brunocalado for the suggestion ❤)
 
+## Community Colabs
+Please select `community` from `switch branches/tags` 
+
+![Screenshot 2023-02-12 113244](https://user-images.githubusercontent.com/54370274/218300944-a6c67c6a-92a9-441e-84c5-c0f72edf53dd.jpg)
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
