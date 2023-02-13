@@ -82,6 +82,8 @@ Please select `v2.0` from `switch branches/tags`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/a_certain_thing_webui_colab.ipynb) a_certain_thing_webui_colab | https://huggingface.co/JosephusCheung/ACertainThing
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/7th_layer_webui_colab.ipynb) 7th_layer_webui_colab | https://huggingface.co/syaimu/7th_Layer (Thanks to Cherryblossomoflove for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/rpg_v4_webui_colab.ipynb) rpg_v4_webui_colab | https://huggingface.co/Anashel/rpg (Thanks to brunocalado for the suggestion ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/waifu_diffusion_v1_5_webui_colab.ipynb) waifu_diffusion_v1_5_webui_colab | https://huggingface.co/waifu-diffusion/wd-1-5-beta
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/protogen_nova_webui_colab.ipynb) protogen_nova_webui_colab | https://huggingface.co/darkstorm2150/Protogen_Nova_Official_Release
 
 ## Community Colabs
 Please select `community` from `switch branches/tags` 
