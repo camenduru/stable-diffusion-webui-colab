@@ -79,7 +79,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/pix2pix_webui_colab.ipynb) pix2pix_webui_colab | https://huggingface.co/timbrooks/instruct-pix2pix (Thanks to Klace for the [pix2pix extension](https://github.com/Klace/stable-diffusion-webui-instruct-pix2pix) ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob//v2.0/rpg_v4_webui_colab.ipynb) rpg_v4_webui_colab | https://huggingface.co/Anashel/rpg (Thanks to brunocalado for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/waifu_diffusion_v1_5_webui_colab.ipynb) waifu_diffusion_v1_5_webui_colab | https://huggingface.co/waifu-diffusion/wd-1-5-beta
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/protogen_nova_webui_colab.ipynb) protogen_nova_webui_colab | https://huggingface.co/darkstorm2150/Protogen_Nova_Official_Release
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/protogen_nova_webui_colab.ipynb) protogen_nova_webui_colab | https://huggingface.co/darkstorm2150/Protogen_Nova_Official_Release (Thanks to alvaromaltrain for the suggestion ❤)
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
