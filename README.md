@@ -80,6 +80,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob//v2.0/rpg_v4_webui_colab.ipynb) rpg_v4_webui_colab | https://huggingface.co/Anashel/rpg (Thanks to brunocalado for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/waifu_diffusion_v1_5_webui_colab.ipynb) waifu_diffusion_v1_5_webui_colab | https://huggingface.co/waifu-diffusion/wd-1-5-beta
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/protogen_nova_webui_colab.ipynb) protogen_nova_webui_colab | https://huggingface.co/darkstorm2150/Protogen_Nova_Official_Release (Thanks to alvaromaltrain for the suggestion ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/control_net_openpose_webui_colab.ipynb) control_net_openpose_webui_colab | https://huggingface.co/lllyasviel/ControlNet (Thanks to Mikubill for the [ControlNet extension](https://github.com/Mikubill/sd-webui-controlnet) ❤)
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
