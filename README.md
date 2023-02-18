@@ -1,5 +1,8 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru
 
+## ControlNet Colabs
+https://github.com/camenduru/controlnet-colab
+
 ## 🦒 Colab
 | Colab Page | Model Page
 | --- | --- |
