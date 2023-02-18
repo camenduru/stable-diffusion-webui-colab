@@ -1,5 +1,8 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru
 
+## ControlNet Colabs
+https://github.com/camenduru/controlnet-colab
+
 ## How to use latest version?
 Please select `v2.0` from `switch branches/tags`
 
