@@ -1,13 +1,5 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru
 
-## ControlNet Colabs
-https://github.com/camenduru/controlnet-colab
-
-## ControlNet With Stable Diffusion WebUI Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/control_net_webui_colab.ipynb) <br />
-https://github.com/lllyasviel/ControlNet thanks to @lllyasviel ❤ <br />
-https://github.com/Mikubill/sd-webui-controlnet thanks to @Mikubill ❤ <br />
-
 ## 🦒 Colab
 | Colab Page | Model Page
 | --- | --- |
@@ -122,6 +114,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/Vetchems/sd-civitai-browser](https://github.com/Vetchems/sd-civitai-browser) (Thanks to @etherealxx ❤ @axsddlr ❤ @AxelFar94 ❤) <br />
 [https://github.com/kohya-ss/sd-webui-additional-networks](https://github.com/kohya-ss/sd-webui-additional-networks) <br />
 [https://github.com/Klace/stable-diffusion-webui-instruct-pix2pix](https://github.com/Klace/stable-diffusion-webui-instruct-pix2pix) <br />
+[https://github.com/Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) thanks to @lllyasviel ❤ and thanks to @Mikubill ❤ <br />
 
 ## Installed Scripts
 [https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py](https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py) <br />
