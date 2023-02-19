@@ -83,6 +83,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/control_net_webui_colab.ipynb) control_net_webui_colab | https://huggingface.co/lllyasviel/ControlNet (Thanks to Mikubill for the [ControlNet extension](https://github.com/Mikubill/sd-webui-controlnet) ❤ thanks to @ClashSAN ❤ for the fp16 models)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/protogen_x3_4_webui_colab.ipynb) protogen_x3_4_webui_colab | https://huggingface.co/darkstorm2150/Protogen_x3.4_Official_Release (Thanks to alvaromaltrain for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/dreamshaper_3_32_webui_colab.ipnyb) dreamshaper_3_32_webui_colab | https://huggingface.co/Lykon/DreamShaper (Thanks to wetcircle for the suggestion ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/abyss_orange_mix_3_webui_colab.ipynb) abyss_orange_mix_3_webui_colab | https://huggingface.co/WarriorMama777/OrangeMixs
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
