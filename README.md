@@ -95,6 +95,9 @@ models/sd-v1-5-inpainting.ckpt | https://huggingface.co/runwayml/stable-diffusio
 models/v1-5-pruned-emaonly.ckpt | https://huggingface.co/runwayml/stable-diffusion-v1-5
 models/anything-v3-vae-swapped.ckpt | https://huggingface.co/ckpt/anything-v3.0
 
+## 🐳 Docker
+https://github.com/camenduru/stable-diffusion-webui-docker
+
 ## Tutorials
 How to Use: https://youtu.be/ZUbLoMt_wa0 <br />
 How To Use With Google Drive: https://youtu.be/zjeziAAKx-o <br />
