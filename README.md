@@ -93,6 +93,7 @@ Please select `v2.0` from `switch branches/tags`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/waifu_diffusion_v1_5_webui_colab.ipynb) waifu_diffusion_v1_5_webui_colab | https://huggingface.co/waifu-diffusion/wd-1-5-beta
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/protogen_nova_webui_colab.ipynb) protogen_nova_webui_colab | https://huggingface.co/darkstorm2150/Protogen_Nova_Official_Release (Thanks to alvaromaltrain for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/protogen_x3_4_webui_colab.ipynb) protogen_x3_4_webui_colab | https://huggingface.co/darkstorm2150/Protogen_x3.4_Official_Release (Thanks to alvaromaltrain for the suggestion ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/dreamshaper_3_32_webui_colab.ipynb) dreamshaper_3_32_webui_colab | https://huggingface.co/Lykon/DreamShaper (Thanks to wetcircle for the suggestion ❤)
 
 ## Community Colabs
 Please select `community` from `switch branches/tags` 
