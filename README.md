@@ -87,9 +87,10 @@ Please select `v2.0` from `switch branches/tags`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/protogen_x3_4_webui_colab.ipynb) protogen_x3_4_webui_colab | https://huggingface.co/darkstorm2150/Protogen_x3.4_Official_Release (Thanks to alvaromaltrain for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/dreamshaper_3_32_webui_colab.ipynb) dreamshaper_3_32_webui_colab | https://huggingface.co/Lykon/DreamShaper (Thanks to wetcircle for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/abyss_orange_mix_3_webui_colab.ipynb) abyss_orange_mix_3_webui_colab | https://huggingface.co/WarriorMama777/OrangeMixs
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/neverending_dream_webui_colab.ipynb) neverending_dream_webui_colab | https://civitai.com/models/10028/neverending-dream
 
 ## Community Colabs
-Please select `community` from `switch branches/tags` 
+Please select `community` from `switch branches/tags`
 
 ![Screenshot 2023-02-12 113244](https://user-images.githubusercontent.com/54370274/218300944-a6c67c6a-92a9-441e-84c5-c0f72edf53dd.jpg)
 
