@@ -102,10 +102,10 @@ How To Use 🤗 Hugging Face Upload Extension: https://youtu.be/KeGpKGzK7R8 <br 
 How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2VwqHN7HDMc <br />
 
 ## Stable Diffusion Web UI
-[https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
+[https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) (Thanks to @AUTOMATIC1111 ❤)
 
 ## Documentation
-[https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki).
+[https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki) 
 
 ## Installed Extensions
 [https://github.com/deforum-art/deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui) (Thanks to @deforum-art ❤) <br />
