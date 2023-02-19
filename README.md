@@ -1,14 +1,6 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru
 
-## ControlNet Colabs
-https://github.com/camenduru/controlnet-colab
-
-## ControlNet With Stable Diffusion WebUI Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/control_net_webui_colab.ipynb) <br />
-https://github.com/lllyasviel/ControlNet thanks to @lllyasviel ❤ <br />
-https://github.com/Mikubill/sd-webui-controlnet thanks to @Mikubill ❤ <br />
-
-## How to use latest version?
+## How to use latest version with ControlNet ?
 Please select `v2.0` from `switch branches/tags`
 
 ![Screenshot 2023-02-02 185650](https://user-images.githubusercontent.com/54370274/216375296-a2197999-bacc-47c1-9306-07194a1cf0ad.jpg)
