@@ -84,6 +84,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/protogen_x3_4_webui_colab.ipynb) protogen_x3_4_webui_colab | https://huggingface.co/darkstorm2150/Protogen_x3.4_Official_Release (Thanks to alvaromaltrain for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/dreamshaper_3_32_webui_colab.ipnyb) dreamshaper_3_32_webui_colab | https://huggingface.co/Lykon/DreamShaper (Thanks to wetcircle for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/abyss_orange_mix_3_webui_colab.ipynb) abyss_orange_mix_3_webui_colab | https://huggingface.co/WarriorMama777/OrangeMixs
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/neverending_dream_webui_colab.ipynb) neverending_dream_webui_colab | https://civitai.com/models/10028/neverending-dream
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
@@ -109,7 +110,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) (Thanks to @AUTOMATIC1111 ❤)
 
 ## Documentation
-[https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki) 
+[https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki)
 
 ## Installed Extensions
 [https://github.com/deforum-art/deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui) (Thanks to @deforum-art ❤) <br />
