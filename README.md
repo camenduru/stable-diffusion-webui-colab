@@ -2,7 +2,7 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
 ## How to use latest version with ControlNet ?
-Link: https://github.com/camenduru/stable-diffusion-webui-colab/tree/v2.0 <br />
+https://github.com/camenduru/stable-diffusion-webui-colab/tree/v2.0 <br />
 or please select `v2.0` from `switch branches/tags`
 
 ![Screenshot 2023-02-02 185650](https://user-images.githubusercontent.com/54370274/216375296-a2197999-bacc-47c1-9306-07194a1cf0ad.jpg)
@@ -92,7 +92,8 @@ or please select `v2.0` from `switch branches/tags`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/neverending_dream_webui_colab.ipynb) neverending_dream_webui_colab | https://civitai.com/models/10028/neverending-dream
 
 ## Community Colabs
-Please select `community` from `switch branches/tags`
+https://github.com/camenduru/stable-diffusion-webui-colab/tree/community <br />
+or please select `community` from `switch branches/tags`
 
 ![Screenshot 2023-02-12 113244](https://user-images.githubusercontent.com/54370274/218300944-a6c67c6a-92a9-441e-84c5-c0f72edf53dd.jpg)
 
