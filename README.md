@@ -2,7 +2,7 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
 ## How to use latest version with ControlNet ?
-Please select `v2.0` from `switch branches/tags`
+Link: https://github.com/camenduru/stable-diffusion-webui-colab/tree/v2.0 or please select `v2.0` from `switch branches/tags` <br />
 
 ![Screenshot 2023-02-02 185650](https://user-images.githubusercontent.com/54370274/216375296-a2197999-bacc-47c1-9306-07194a1cf0ad.jpg)
 
