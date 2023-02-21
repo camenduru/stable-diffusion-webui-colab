@@ -1,2 +1,9 @@
 modelexamples/censored/*
 *.backup
+temp
+*.lnk
+*.bak
+*.zip
+*.7z
+modelexamples/tardulu/*
+automationtools/tempCodeRunnerFile.py
