@@ -86,6 +86,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/dreamshaper_3_32_webui_colab.ipnyb) dreamshaper_3_32_webui_colab | https://huggingface.co/Lykon/DreamShaper (Thanks to wetcircle for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/abyss_orange_mix_3_webui_colab.ipynb) abyss_orange_mix_3_webui_colab | https://huggingface.co/WarriorMama777/OrangeMixs
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/neverending_dream_webui_colab.ipynb) neverending_dream_webui_colab | https://civitai.com/models/10028/neverending-dream
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/deliberate_webui_colab.ipynb) deliberate_webui_colab | https://civitai.com/models/4823/deliberate
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
