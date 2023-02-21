@@ -90,6 +90,7 @@ or please select `v2.0` from `switch branches/tags`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/dreamshaper_3_32_webui_colab.ipynb) dreamshaper_3_32_webui_colab | https://huggingface.co/Lykon/DreamShaper (Thanks to wetcircle for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/abyss_orange_mix_3_webui_colab.ipynb) abyss_orange_mix_3_webui_colab | https://huggingface.co/WarriorMama777/OrangeMixs
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/neverending_dream_webui_colab.ipynb) neverending_dream_webui_colab | https://civitai.com/models/10028/neverending-dream
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/deliberate_webui_colab.ipynb) deliberate_webui_colab | https://civitai.com/models/4823/deliberate
 
 ## Community Colabs
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/community <br />
