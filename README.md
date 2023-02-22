@@ -91,14 +91,6 @@
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
 
-| Model Path | Model Page
-| --- | --- |
-models/PaperCut_v1.ckpt | https://huggingface.co/Fictiverse/Stable_Diffusion_PaperCut_Model
-models/moDi-v1-pruned.ckpt | https://huggingface.co/nitrosocke/mo-di-diffusion
-models/sd-v1-5-inpainting.ckpt | https://huggingface.co/runwayml/stable-diffusion-inpainting
-models/v1-5-pruned-emaonly.ckpt | https://huggingface.co/runwayml/stable-diffusion-v1-5
-models/anything-v3-vae-swapped.ckpt | https://huggingface.co/ckpt/anything-v3.0
-
 ## 🐳 Docker
 https://github.com/camenduru/stable-diffusion-webui-docker
 
