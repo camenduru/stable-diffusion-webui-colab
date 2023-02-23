@@ -31,6 +31,9 @@ https://github.dev/your_username/stable-diffusion-webui-colab/tree/v2.0
 
 #### Create Pull Requests to `main` & `v2.0`
 
+#### Please add the token if it exists
+Example: papercut_diffusion_webui_colab (Use the tokens `PaperCut` in your prompts for the effect.)
+
 #### Please be careful with links
 We have two different links the main branch uses `/blob/main/` v2.0 uses `/blob/v2.0/`
 
