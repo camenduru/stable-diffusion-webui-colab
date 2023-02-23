@@ -7,7 +7,7 @@ or please select `v2.0` from `switch branches/tags`
 
 ![Screenshot 2023-02-02 185650](https://user-images.githubusercontent.com/54370274/216375296-a2197999-bacc-47c1-9306-07194a1cf0ad.jpg)
 
-## How to use latest version with Google Drive and ControlNet ?
+## How to install latest version and ControlNet to Google Drive ?
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive <br />
 or please select `drive` from `switch branches/tags`
 
