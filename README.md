@@ -1,4 +1,4 @@
-## 🦒 Install WebUI Colab to Google Drive
+## 🦒 Install the WebUI Colab to Google Drive
 
 | Colab Page | Function
 | --- | --- |
