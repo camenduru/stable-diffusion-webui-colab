@@ -1,0 +1,6 @@
+STEP1: Delete "!aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/ckpt/sd14/resolve/main/sd-v1-4.ckpt -d /content/stable-diffusion-webui/models/Stable-diffusion -o sd-v1-4.ckpt"
+
+STEP2: Write this content above "%cd /content/stable-diffusion-webui"
+       https://civitai.com/api/download/models/11732 -O /content/stable-diffusion-webui/models/Stable-diffusion/SEX_2..safetensors
+       
+The teaching-video is "https://www.bilibili.com/video/BV1p84y1H7rr/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=7db9786d84b537c15da76143f9a52b99"
