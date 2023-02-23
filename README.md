@@ -87,6 +87,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/abyss_orange_mix_3_webui_colab.ipynb) abyss_orange_mix_3_webui_colab | https://huggingface.co/WarriorMama777/OrangeMixs
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/neverending_dream_webui_colab.ipynb) neverending_dream_webui_colab | https://civitai.com/models/10028/neverending-dream
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/deliberate_webui_colab.ipynb) deliberate_webui_colab | https://civitai.com/models/4823/deliberate
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/vinte_protogen_mix_v_1_0.ipynb) vinte_protogen_mix_v_1_0_webui_colab | https://civitai.com/models/5657/vinteprotogenmix-v10
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
