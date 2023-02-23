@@ -88,6 +88,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/neverending_dream_webui_colab.ipynb) neverending_dream_webui_colab | https://civitai.com/models/10028/neverending-dream
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/deliberate_webui_colab.ipynb) deliberate_webui_colab | https://civitai.com/models/4823/deliberate
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/vinte_protogen_mix_v_1_0.ipynb) vinte_protogen_mix_v_1_0_webui_colab | https://civitai.com/models/5657/vinteprotogenmix-v10
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/chillout_mix_webui_colab.ipynb) chillout_mix_webui_colab | https://civitai.com/models/6424/chilloutmix
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
