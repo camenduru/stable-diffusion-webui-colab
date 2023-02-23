@@ -7,6 +7,12 @@ or please select `v2.0` from `switch branches/tags`
 
 ![Screenshot 2023-02-02 185650](https://user-images.githubusercontent.com/54370274/216375296-a2197999-bacc-47c1-9306-07194a1cf0ad.jpg)
 
+## How to install latest version and ControlNet to Google Drive ?
+https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive <br />
+or please select `drive` from `switch branches/tags`
+
+![Screenshot 2023-02-23 165554t](https://user-images.githubusercontent.com/54370274/220930939-1068cd0c-ac29-4a92-9b1d-c67f58f0aff0.png)
+
 ## 🦒 Colab
 | Colab Page | Model Page
 | --- | --- |
@@ -68,7 +74,7 @@ or please select `v2.0` from `switch branches/tags`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/samdoessexy_blend_webui_colab.ipynb) samdoessexy_blend_webui_colab | https://civitai.com/models/1180/samdoessexy-blend
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/comics_blend_webui_colab.ipynb) comics_blend_webui_colab (Use the tokens `ComplexLA style` `nvinkpunk` `marioalberti artstyle` `ghibli style` in your prompts for the effect.) | https://civitai.com/models/1491/comicsblend
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/dream_like_sam_kuvshino_webui_colab.ipynb) dream_like_sam_kuvshino_webui_colab | https://civitai.com/models/1473/dreamlikesamkuvshinov
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/mouseymix_webui_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/8528_diffusion_webui_colab.ipynb) 8528_diffusion_webui_colab | https://huggingface.co/852wa/8528-diffusion (Thanks to 黄色いバラ for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/hasdx_webui_colab.ipynb) hasdx_webui_colab | https://civitai.com/models/3758/hasdx (Thanks to EBIX_benis for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/abyss_orange_mix_2_webui_colab.ipynb) abyss_orange_mix_2_webui_colab | https://huggingface.co/WarriorMama777/OrangeMixs
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/dreamlike_photoreal_2_webui_colab.ipynb) dreamlike_photoreal_2_webui_colab | https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0
@@ -91,6 +97,10 @@ or please select `v2.0` from `switch branches/tags`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/abyss_orange_mix_3_webui_colab.ipynb) abyss_orange_mix_3_webui_colab | https://huggingface.co/WarriorMama777/OrangeMixs
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/neverending_dream_webui_colab.ipynb) neverending_dream_webui_colab | https://civitai.com/models/10028/neverending-dream
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/deliberate_webui_colab.ipynb) deliberate_webui_colab | https://civitai.com/models/4823/deliberate
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/vinte_protogen_mix_v_1_0.ipynb) vinte_protogen_mix_v_1_0_webui_colab | https://civitai.com/models/5657/vinteprotogenmix-v10
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/chillout_mix_webui_colab.ipynb) chillout_mix_webui_colab | https://civitai.com/models/6424/chilloutmix
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/pastel_mix_stylized_anime_webui_colab.ipynb) pastel_mix_stylized_anime_webui_colab | https://civitai.com/models/5414/pastel-mix-stylized-anime-model (Thanks to Rimuru for the suggestion ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/mouseymix_webui_colab.ipynb) mouseymix_webui_colab | https://huggingface.co/closertodeath/mouseymix (Thanks to 黄色いバラ for the suggestion ❤)
 
 ## Community Colabs
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/community <br />
