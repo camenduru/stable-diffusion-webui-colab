@@ -100,6 +100,7 @@ or please select `drive` from `switch branches/tags`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/vinte_protogen_mix_v_1_0.ipynb) vinte_protogen_mix_v_1_0_webui_colab | https://civitai.com/models/5657/vinteprotogenmix-v10
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/chillout_mix_webui_colab.ipynb) chillout_mix_webui_colab | https://civitai.com/models/6424/chilloutmix
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/pastel_mix_stylized_anime_webui_colab.ipynb) pastel_mix_stylized_anime_webui_colab | https://civitai.com/models/5414/pastel-mix-stylized-anime-model (Thanks to Rimuru for the suggestion ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/pastel_mix_stylized_anime_fp32_webui_colab.ipynb) pastel_mix_stylized_anime_fp32_webui_colab | https://civitai.com/models/5414/pastel-mix-stylized-anime-model
 
 ## Community Colabs
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/community <br />
