@@ -10,7 +10,7 @@ https://github.dev/your_username/stable-diffusion-webui-colab
 #### Copy Paste Any Colab
 ![Screenshot 2023-02-19 150620](https://user-images.githubusercontent.com/54370274/219947132-20c537c5-06f7-42fd-8c0d-b2d143c3b594.png)
 
-#### Rename `model_name_version_webui_colab.ipynb`
+#### Rename `model_name_version_webui_colab.ipynb` (please use only lowercase characters for colab names)
 ![Screenshot 2023-02-19 150712](https://user-images.githubusercontent.com/54370274/219947148-9d9528e2-d5e2-4eb8-be44-21c2cebac52a.png)
 
 #### Edit Model Link and Name
