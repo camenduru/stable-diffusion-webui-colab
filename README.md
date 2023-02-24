@@ -8,3 +8,22 @@
 
 ## Tutorials
 Stable Diffusion WebUI Colab With Google Drive: https://www.youtube.com/watch?v=njW64feGMzI
+
+🚨 Important for 15G Free Google Drive Users: 
+
+If you want to use more models, you can download your model into Colab, which has an empty 50GB space. 
+
+Download models into `/content` and add `--ckpt-dir /content` at the end of the `launch.py` line
+
+![Screenshot 2023-02-24 140103](https://user-images.githubusercontent.com/54370274/221163131-235a823e-4c0f-410e-935d-f870c0aab4bf.png)
+
+You can also free up more space by deleting the default model in your drive.
+
+![Screenshot 2023-02-24 140908](https://user-images.githubusercontent.com/54370274/221165025-706b6385-8cb2-4fe1-9334-2762013b9dce.png)
+
+If you don't plan to use ControlNet models, you can also free up space by deleting them.
+
+![Screenshot 2023-02-24 141259](https://user-images.githubusercontent.com/54370274/221165764-b4db7c3c-0cc9-4976-a922-395bb72a002d.png)
+
+
+thanks to twitter@muadoyoki ❤
