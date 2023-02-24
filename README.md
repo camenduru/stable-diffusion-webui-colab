@@ -93,6 +93,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/illuminati_v1_0_webui_colab.ipynb) illuminati_v1_0_webui_colab | https://huggingface.co/IlluminatiAI/Illuminati_Diffusion_v1.0 (Thanks to PeePa for the contribution ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/color_bomb_mix_webui_colab.ipynb) color_bomb_mix_webui_colab | https://huggingface.co/mocker/KaBoom (Thanks to Rimuru for the suggestion ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/mousey_mix_webui_colab.ipynb) mousey_mix_webui_colab | https://huggingface.co/closertodeath/mouseymix (Thanks to 黄色いバラ for the suggestion ❤ and Thanks to Cherryblossomoflove for the contribution ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/dpepmkmp_webui_colab.ipynb) dpepmkmp_webui_colab | https://huggingface.co/closertodeath/dpepmkmp (Thanks to 黄色いバラ for the suggestion)
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
