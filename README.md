@@ -1,6 +1,9 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru <br />
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
+## We switched Gradio Tunnel to Cloudflare Tunnel
+Please check this https://github.com/camenduru/stable-diffusion-webui-colab/issues/172
+
 ## How to use latest version with ControlNet ?
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/v2.0 <br />
 or please select `v2.0` from `switch branches/tags`
