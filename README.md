@@ -103,6 +103,7 @@ or please select `drive` from `switch branches/tags`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/illuminati_v1_0_webui_colab.ipynb) illuminati_v1_0_webui_colab | https://huggingface.co/IlluminatiAI/Illuminati_Diffusion_v1.0 (Thanks to PeePa for the contribution ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/color_bomb_mix_webui_colab.ipynb) color_bomb_mix_webui_colab | https://huggingface.co/mocker/KaBoom (Thanks to Rimuru for the suggestion ❤ and Thanks to Cherryblossomoflove for the contribution ❤ )
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/mousey_mix_webui_colab.ipynb) mousey_mix_webui_colab | https://huggingface.co/closertodeath/mouseymix (Thanks to 黄色いバラ for the suggestion ❤ and Thanks to Cherryblossomoflove for the contribution ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/dpepmkmp_webui_colab.ipynb) dpepmkmp_webui_colab | https://huggingface.co/closertodeath/dpepmkmp (Thanks to 黄色いバラ for the suggestion)
 
 ## Community Colabs
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/community <br />
