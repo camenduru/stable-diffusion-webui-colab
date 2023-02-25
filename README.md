@@ -138,6 +138,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/camenduru/stable-diffusion-webui-huggingface](https://github.com/camenduru/stable-diffusion-webui-huggingface) <br />
 [https://github.com/Vetchems/sd-civitai-browser](https://github.com/Vetchems/sd-civitai-browser) (Thanks to @Vetchems ❤ @etherealxx ❤ @axsddlr ❤ @AxelFar94 ❤) <br />
 [https://github.com/kohya-ss/sd-webui-additional-networks](https://github.com/kohya-ss/sd-webui-additional-networks) (Thanks to @kohya-ss ❤) <br />
+[https://github.com/Bing-su/sd-webui-tunnels](https://github.com/Bing-su/sd-webui-tunnels) (Thanks to @Bing-su ❤ @etherealxx ❤) <br />
 
 ## Installed Scripts
 [https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py](https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py) <br />
@@ -146,6 +147,8 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 Thanks to @UWUplus ❤ (https://github.com/UWUplus/flask-cloudflared/blob/main/flask_cloudflared.py modified) <br />
 Thanks to @thx-pw ❤ (colab memmory fix) <br />
 Thanks to @Daviljoe193 ❤ (colab memmory fix) <br />
+Thanks to @machiavel23 ❤ (community colab) <br />
+Thanks to @etherealxx ❤ (community colab) <br />
 
 ## Models License
 https://huggingface.co/spaces/CompVis/stable-diffusion-license
