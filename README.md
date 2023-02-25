@@ -126,5 +126,10 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 ## Installed Scripts
 [https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py](https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py) <br />
 
+## Special Thanks
+Thanks to @UWUplus ❤ (https://github.com/UWUplus/flask-cloudflared/blob/main/flask_cloudflared.py modified)
+Thanks to @thx-pw ❤ (colab memmory fix)
+Thanks to @Daviljoe193 ❤ (colab memmory fix)
+
 ## Models License
 https://huggingface.co/spaces/CompVis/stable-diffusion-license
