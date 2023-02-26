@@ -52,16 +52,6 @@ body:
         - --share (Gradio Tunnel)
     validations:
       required: true
-  - type: dropdown
-    id: platforms
-    attributes:
-      label: What platforms do you use to access the UI ?
-      multiple: true
-      options:
-        - PC
-        - Mobile
-    validations:
-      required: true
   - type: markdown
     attributes:
       value: |
@@ -74,38 +64,8 @@ body:
     validations:
       required: true
   - type: textarea
-    id: steps
-    attributes:
-      label: Steps to reproduce the problem
-      description: Please provide us with precise step by step information on how to reproduce the bug
-      value: |
-        1. Go to .... 
-        2. Press ....
-        3. ...
-    validations:
-      required: true
-  - type: textarea
-    id: what-should
-    attributes:
-      label: What should have happened?
-      description: Tell what you think the normal behavior should be
-    validations:
-      required: true
-  - type: textarea
-    id: extensions
-    attributes:
-      label: List of extensions
-      description: Are you using any extensions other than the one provided on the original colab notebook? If yes, provide a list, you can copy it at "Extensions" tab. Write "No" otherwise.
-    validations:
-      required: true
-  - type: textarea
     id: logs
     attributes:
       label: Console logs
       description: Please provide **full** cmd/terminal logs from the moment there is an error (usually starts with 'Traceback'), after your bug happened. If it's very long, provide a link to pastebin or similar service.
       render: Shell
-  - type: textarea
-    id: misc
-    attributes:
-      label: Additional information
-      description: Please provide us with any relevant additional info or context.
