@@ -1,0 +1,111 @@
+name: Bug Report
+description: You think somethings is broken or not working as expected
+title: "[Bug]: "
+labels: ["bug-report"]
+
+body:
+  - type: checkboxes
+    attributes:
+      label: Is there an existing issue for this?
+      description: Please search to see if an issue already exists for the bug you encountered, and that it hasn't been fixed in a recent build/commit.
+      options:
+        - label: I have searched the existing issues and checked the recent builds/commits
+          required: true
+  - type: checkboxes
+    attributes:
+      label: Are you using the latest version of the colab notebook?
+      description: Please make sure you're using the latest version of the notebook. We updates regularly. Unless you have a reason not to.
+      options:
+        - label: Yes, i am using the latest version from the repo
+          required: true
+  - type: input
+    id: colabname
+    attributes:
+      label: Which colab notebook did you use?
+      description: Type the model name. For example, if your colab is '7th_layer_webui_colab.ipynb' then type '7th layer'
+    validations:
+      required: true
+  - type: dropdown
+    id: branch
+    attributes:
+      label: Which repo branch did the colab you use comes from ?
+      multiple: true
+      options:
+        - main (v1.6)
+        - v2.0
+        - community
+        - drive
+        - I don't know
+    validations:
+      required: true
+  - type: dropdown
+    id: tunnel
+    attributes:
+      label: Which tunnel did you use ? 
+      description: look at the last line (launch.py) on your colab
+      multiple: true
+      options:
+        - --googleusercontent
+        - --cloudflared
+        - --localhostrun
+        - --remotemoe
+        - --share (Gradio Tunnel)
+    validations:
+      required: true
+  - type: dropdown
+    id: platforms
+    attributes:
+      label: What platforms do you use to access the UI ?
+      multiple: true
+      options:
+        - PC
+        - Mobile
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        *Please fill this form with as much information as possible, also fill every dropdown options and *provide screenshots if possible**
+  - type: textarea
+    id: what-did
+    attributes:
+      label: What happened?
+      description: Tell us what happened in a very clear and simple way
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce the problem
+      description: Please provide us with precise step by step information on how to reproduce the bug
+      value: |
+        1. Go to .... 
+        2. Press ....
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: what-should
+    attributes:
+      label: What should have happened?
+      description: Tell what you think the normal behavior should be
+    validations:
+      required: true
+  - type: textarea
+    id: extensions
+    attributes:
+      label: List of extensions
+      description: Are you using any extensions other than the one provided on the original colab notebook? If yes, provide a list, you can copy it at "Extensions" tab. Write "No" otherwise.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Console logs
+      description: Please provide **full** cmd/terminal logs from the moment there is an error (usually starts with 'Traceback'), after your bug happened. If it's very long, provide a link to pastebin or similar service.
+      render: Shell
+  - type: textarea
+    id: misc
+    attributes:
+      label: Additional information
+      description: Please provide us with any relevant additional info or context.
