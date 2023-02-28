@@ -4,6 +4,23 @@ title: "[Bug]: "
 labels: ["bug-report"]
 
 body:
+  - type: markdown
+    attributes:
+      value: |
+        *Please fill this form with as much information as possible, also fill every dropdown options and *provide screenshots if possible**
+  - type: textarea
+    id: what-did
+    attributes:
+      label: What happened?
+      description: Tell us what happened in a very clear and simple way
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Console logs
+      description: Please provide **full** cmd/terminal logs from the moment there is an error (usually starts with 'Traceback'), after your bug happened. If it's very long, provide a link to pastebin or similar service.
+      render: Shell
   - type: checkboxes
     attributes:
       label: Is there an existing issue for this?
@@ -52,20 +69,3 @@ body:
         - --share (Gradio Tunnel)
     validations:
       required: true
-  - type: markdown
-    attributes:
-      value: |
-        *Please fill this form with as much information as possible, also fill every dropdown options and *provide screenshots if possible**
-  - type: textarea
-    id: what-did
-    attributes:
-      label: What happened?
-      description: Tell us what happened in a very clear and simple way
-    validations:
-      required: true
-  - type: textarea
-    id: logs
-    attributes:
-      label: Console logs
-      description: Please provide **full** cmd/terminal logs from the moment there is an error (usually starts with 'Traceback'), after your bug happened. If it's very long, provide a link to pastebin or similar service.
-      render: Shell
