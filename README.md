@@ -4,7 +4,7 @@
 
 | Colab Page | Function
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/train.ipynb) | Train DreamBooth
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/train.ipynb) | Train DreamBooth & LoRA
 
 ## Tutorials
 
