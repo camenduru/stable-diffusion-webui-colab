@@ -2,8 +2,11 @@
 
 | Colab Page | Function
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/train_dreambooth_standalone.ipynb) | Train DreamBooth Standalone (Recommended)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/train.ipynb) | Train DreamBooth & (LoRA 🚦WIP🚦)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/train_dreambooth_standalone.ipynb) | Train DreamBooth Standalone
+
+## How To Use Standalone (Recommended)
+https://www.youtube.com/watch?v=5dK1altO4Qw
 
 ## How To Use
 https://www.youtube.com/watch?v=qAPWnZK4ew8 <br />
@@ -16,10 +19,6 @@ https://www.youtube.com/watch?v=qAPWnZK4ew8 <br />
 - Go to the Diffusers Test tab and test your model using the `parkminyoung person drawing` template `instance_prompt class_prompt your_prompt`
 - Go to the Convert DreamBooth tab and click on `Convert Diffusers to Original Stable Diffusion`
 - If you want to send it to HuggingFace, use the HuggingFace tab `Push File to 🤗 Hugging Face`
-
-
-## How To Use Standalone
-https://www.youtube.com/watch?v=5dK1altO4Qw
 
 ## Licenses
 https://github.com/huggingface/diffusers/blob/main/LICENSE
