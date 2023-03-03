@@ -5,10 +5,10 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/train_dreambooth_standalone.ipynb) | Train DreamBooth Standalone (Recommended)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/train.ipynb) | Train DreamBooth & (LoRA 🚦WIP🚦)
 
-## How To Use Standalone (Recommended)
+## How To Use `Train DreamBooth Standalone (Recommended)`
 https://www.youtube.com/watch?v=5dK1altO4Qw
 
-## How To Use
+## How To Use `Train DreamBooth & (LoRA 🚦WIP🚦)`
 https://www.youtube.com/watch?v=qAPWnZK4ew8 <br />
 
 - Find someone famous looks like you in the stable diffusion universe (find with: https://starbyface.com) (search with: https://rom1504.github.io/clip-retrieval)
