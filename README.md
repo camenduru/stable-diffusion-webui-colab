@@ -4,6 +4,12 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/train_dreambooth_standalone.ipynb) | Train DreamBooth Standalone (Recommended)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/train.ipynb) | Train DreamBooth & (LoRA 🚦WIP🚦)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/a_certainty_webui_colab.ipynb) | Train with ACertainty https://huggingface.co/JosephusCheung/ACertainty
+
+## Installed Extensions
+[https://github.com/ddPn08/kohya-sd-scripts-webui](https://github.com/ddPn08/kohya-sd-scripts-webui) (Thanks to @ddPn08 ❤ and @thx-pw ❤) <br />
+[https://github.com/d8ahazard/sd_dreambooth_extension](https://github.com/d8ahazard/sd_dreambooth_extension) (Thanks to @d8ahazard ❤) <br />
+[https://github.com/camenduru/stable-diffusion-webui-diffusers](https://github.com/camenduru/stable-diffusion-webui-diffusers) (Thanks to @diffuserslib ❤) <br />
 
 ### How To Use Train DreamBooth Standalone (Recommended)
 https://www.youtube.com/watch?v=5dK1altO4Qw
