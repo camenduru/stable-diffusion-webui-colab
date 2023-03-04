@@ -35,3 +35,6 @@ https://github.com/d8ahazard/sd_dreambooth_extension/blob/main/license.md <br />
 https://github.com/kohya-ss/sd-webui-additional-networks/blob/main/LICENSE.txt <br />
 https://github.com/Bing-su/sd-webui-tunnels/blob/main/LICENSE.md <br />
 https://github.com/huggingface/diffusers/blob/main/LICENSE <br />
+
+### Models License
+https://huggingface.co/spaces/CompVis/stable-diffusion-license
