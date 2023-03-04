@@ -31,4 +31,7 @@ https://www.youtube.com/watch?v=qAPWnZK4ew8 <br />
 - If you want to send it to HuggingFace, use the HuggingFace tab `Push File to 🤗 Hugging Face`
 
 ### Licenses
+https://github.com/d8ahazard/sd_dreambooth_extension/blob/main/license.md
+https://github.com/kohya-ss/sd-webui-additional-networks/blob/main/LICENSE.txt
+https://github.com/Bing-su/sd-webui-tunnels/blob/main/LICENSE.md
 https://github.com/huggingface/diffusers/blob/main/LICENSE
