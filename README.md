@@ -10,6 +10,10 @@
 [https://github.com/ddPn08/kohya-sd-scripts-webui](https://github.com/ddPn08/kohya-sd-scripts-webui) (Thanks to @ddPn08 ❤ and @thx-pw ❤) <br />
 [https://github.com/d8ahazard/sd_dreambooth_extension](https://github.com/d8ahazard/sd_dreambooth_extension) (Thanks to @d8ahazard ❤) <br />
 [https://github.com/camenduru/stable-diffusion-webui-diffusers](https://github.com/camenduru/stable-diffusion-webui-diffusers) (Thanks to @diffuserslib ❤) <br />
+[https://github.com/yfszzx/stable-diffusion-webui-images-browser](https://github.com/yfszzx/stable-diffusion-webui-images-browser) (Thanks to @yfszzx ❤ @AlUlkesh ❤) <br />
+[https://github.com/camenduru/stable-diffusion-webui-huggingface](https://github.com/camenduru/stable-diffusion-webui-huggingface) <br />
+[https://github.com/kohya-ss/sd-webui-additional-networks](https://github.com/kohya-ss/sd-webui-additional-networks) (Thanks to @kohya-ss ❤) <br />
+[https://github.com/Bing-su/sd-webui-tunnels](https://github.com/Bing-su/sd-webui-tunnels) (Thanks to @Bing-su ❤ @etherealxx ❤) <br />
 
 ### How To Use Train DreamBooth Standalone
 https://www.youtube.com/watch?v=5dK1altO4Qw
