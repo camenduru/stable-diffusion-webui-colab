@@ -90,6 +90,13 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/vinte_protogen_mix_v_1_0.ipynb) vinte_protogen_mix_v_1_0_webui_colab | https://civitai.com/models/5657/vinteprotogenmix-v10
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/chillout_mix_webui_colab.ipynb) chillout_mix_webui_colab | https://civitai.com/models/6424/chilloutmix
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/pastel_mix_stylized_anime_webui_colab.ipynb) pastel_mix_stylized_anime_webui_colab | https://civitai.com/models/5414/pastel-mix-stylized-anime-model (Thanks to Rimuru for the suggestion ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/illuminati_v1_0_webui_colab.ipynb) illuminati_v1_0_webui_colab | https://huggingface.co/IlluminatiAI/Illuminati_Diffusion_v1.0 (Thanks to PeePa for the contribution ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/color_bomb_mix_webui_colab.ipynb) color_bomb_mix_webui_colab | https://huggingface.co/mocker/KaBoom (Thanks to Rimuru for the suggestion ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/mousey_mix_webui_colab.ipynb) mousey_mix_webui_colab | https://huggingface.co/closertodeath/mouseymix (Thanks to 黄色いバラ for the suggestion ❤ and Thanks to Cherryblossomoflove for the contribution ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/dpepmkmp_webui_colab.ipynb) dpepmkmp_webui_colab | https://huggingface.co/closertodeath/dpepmkmp (Thanks to 黄色いバラ for the suggestion)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/illuminati_v1_1_webui_colab.ipynb) illuminati_v1_1_webui_colab (Use the negative prompt tokens `nfixer, nartfixer, nrealfixer` in your prompts for the effect.) | https://civitai.com/models/11193/illuminati-diffusion-v11 (Thanks to PeePa for the contribution ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/waifu_diffusion_v1_5_b2_webui_colab.ipynb) waifu_diffusion_v1_5_b2_webui_colab | https://huggingface.co/waifu-diffusion/wd-1-5-beta2
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/padoru_v1_webui_colab.ipynb) padoru_v1_webui_colab | https://civitai.com/models/1422/padoru-diffusion
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/refslave_v2_webui_colab.ipynb) refslave_v2_webui_colab | https://huggingface.co/AgraFL/RefSlave-V2 (Thanks to Rimuru for the suggestion ❤)
 
 ## 🦆 Kaggle
@@ -117,11 +124,20 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/Vetchems/sd-civitai-browser](https://github.com/Vetchems/sd-civitai-browser) (Thanks to @Vetchems ❤ @etherealxx ❤ @axsddlr ❤ @AxelFar94 ❤) <br />
 [https://github.com/kohya-ss/sd-webui-additional-networks](https://github.com/kohya-ss/sd-webui-additional-networks) (Thanks to @kohya-ss ❤) <br />
 [https://github.com/Klace/stable-diffusion-webui-instruct-pix2pix](https://github.com/Klace/stable-diffusion-webui-instruct-pix2pix) (Thanks to @Klace ❤) <br />
-[https://github.com/Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) (Thanks to @lllyasviel ❤ @Mikubill ❤ @kohya-ss ❤ @ClashSAN ❤ @ddPn08 ❤) <br />
+[https://github.com/Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) (Thanks to @lllyasviel ❤ @Mikubill ❤ @kohya-ss ❤ @ClashSAN ❤ @ddPn08 ❤) <br /> 
 [https://github.com/fkunn1326/openpose-editor](https://github.com/fkunn1326/openpose-editor) (Thanks to @fkunn1326 ❤) <br />
+[https://github.com/Bing-su/sd-webui-tunnels](https://github.com/Bing-su/sd-webui-tunnels) (Thanks to @Bing-su ❤ @etherealxx ❤) <br />
+[https://github.com/jexom/sd-webui-depth-lib](https://github.com/jexom/sd-webui-depth-lib) (Thanks to @jexom ❤) <br />
 
 ## Installed Scripts
 [https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py](https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py) <br />
+
+## Special Thanks
+Thanks to @UWUplus ❤ (https://github.com/UWUplus/flask-cloudflared/blob/main/flask_cloudflared.py modified) <br />
+Thanks to @thx-pw ❤ (colab memmory fix) <br />
+Thanks to @Daviljoe193 ❤ (colab memmory fix) <br />
+Thanks to @machiavel23 ❤ (community colab) <br />
+Thanks to @etherealxx ❤ (community colab) <br />
 
 ## Models License
 https://huggingface.co/spaces/CompVis/stable-diffusion-license
