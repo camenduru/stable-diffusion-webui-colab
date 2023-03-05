@@ -97,6 +97,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/illuminati_v1_1_webui_colab.ipynb) illuminati_v1_1_webui_colab (Use the negative prompt tokens `nfixer, nartfixer, nrealfixer` in your prompts for the effect.) | https://civitai.com/models/11193/illuminati-diffusion-v11 (Thanks to PeePa for the contribution ❤)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/waifu_diffusion_v1_5_b2_webui_colab.ipynb) waifu_diffusion_v1_5_b2_webui_colab | https://huggingface.co/waifu-diffusion/wd-1-5-beta2
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/padoru_v1_webui_colab.ipynb) padoru_v1_webui_colab | https://civitai.com/models/1422/padoru-diffusion
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/refslave_v2_webui_colab.ipynb) refslave_v2_webui_colab | https://huggingface.co/AgraFL/RefSlave-V2 (Thanks to Rimuru for the suggestion ❤)
 
 ## 🦆 Kaggle
 https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
