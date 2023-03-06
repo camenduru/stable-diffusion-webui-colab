@@ -153,6 +153,8 @@ Thanks to @thx-pw ❤ (colab memmory fix) <br />
 Thanks to @Daviljoe193 ❤ (colab memmory fix) <br />
 Thanks to @machiavel23 ❤ (community colab) <br />
 Thanks to @etherealxx ❤ (community colab) <br />
+Thanks to @nocrypt ❤ (community colab) <br />
+Thanks to @jeguepowerr ❤ (latest news) <br />
 
 ## Models License
 https://huggingface.co/spaces/CompVis/stable-diffusion-license
