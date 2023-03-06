@@ -6,9 +6,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/train_lora_standalone.ipynb) | Train LoRA Standalone
 
 ### How To Use Train DreamBooth Standalone
-https://www.youtube.com/watch?v=5dK1altO4Qw
 
-## How To Use
+- https://www.youtube.com/watch?v=5dK1altO4Qw
 - Find someone famous looks like you in the stable diffusion universe (find with: https://starbyface.com) (search with: https://rom1504.github.io/clip-retrieval)
 - Example I will try train streamer hachubby 
 - I will use Park Min-young but the prompt keyword will be parkminyoung
