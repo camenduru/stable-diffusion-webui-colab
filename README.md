@@ -1,4 +1,4 @@
-## 🦒 Training Colab GPU
+## 🦒 Training Colabs (GPU)
 
 | Colab Page | Function
 | --- | --- |
@@ -19,6 +19,3 @@
 ### Licenses
 https://github.com/kohya-ss/sd-scripts/blob/main/LICENSE.md <br />
 https://github.com/huggingface/diffusers/blob/main/LICENSE <br />
-
-### Models License
-https://huggingface.co/spaces/CompVis/stable-diffusion-license
