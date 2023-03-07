@@ -19,7 +19,7 @@ or please select `drive` from `switch branches/tags`
 ![Screenshot 2023-02-23 165554t](https://user-images.githubusercontent.com/54370274/220930939-1068cd0c-ac29-4a92-9b1d-c67f58f0aff0.png)
 
 ## 🦒 Colab
-| Notebook Version | Info | Model Page
+| Notebook-Version | Info | Model-Page
 | --- | --- | --- |
 v1.6 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/new/v1.6/stable_diffusion_webui_colab.ipynb) <br /> v2.0 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/new/v2.0/stable_diffusion_webui_colab.ipynb) | stable_diffusion_webui_colab | https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
 v1.6 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/new/v1.6/waifu_diffusion_webui_colab.ipynb) <br /> v2.0 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/new/v2.0/waifu_diffusion_webui_colab.ipynb) | waifu_diffusion_webui_colab | https://huggingface.co/hakurei/waifu-diffusion-v1-3
