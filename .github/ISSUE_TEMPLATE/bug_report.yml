@@ -67,5 +67,16 @@ body:
         - --localhostrun
         - --remotemoe
         - --share (Gradio Tunnel)
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browsers do you use to access the WebUI ?
+      multiple: true
+      options:
+        - Mozilla Firefox
+        - Google Chrome
+        - Brave
+        - Apple Safari
+        - Microsoft Edge
     validations:
       required: true
