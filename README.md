@@ -20,7 +20,7 @@ or please select `drive` from `switch branches/tags`
 
 ## 🦒 Colab
 | Versions | Info | Model Page
-| --- | --- | --- |
+| --------------- | --- | --- |
 v1.6 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/new/v1.6/stable_diffusion_webui_colab.ipynb) <br /> v2.0 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/new/v2.0/stable_diffusion_webui_colab.ipynb) | stable_diffusion_webui_colab | https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
 v1.6 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/new/v1.6/waifu_diffusion_webui_colab.ipynb) <br /> v2.0 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/new/v2.0/waifu_diffusion_webui_colab.ipynb) | waifu_diffusion_webui_colab | https://huggingface.co/hakurei/waifu-diffusion-v1-3
 v1.6 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/new/v1.6/stable_diffusion_inpainting_webui_colab.ipynb) <br /> v2.0 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/new/v2.0/stable_diffusion_inpainting_webui_colab.ipynb) | stable_diffusion_inpainting_webui_colab | https://huggingface.co/runwayml/stable-diffusion-inpainting
