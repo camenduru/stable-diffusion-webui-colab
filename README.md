@@ -4,7 +4,7 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/simple_dreambooth_trainer.ipynb) | Simple DreamBooth Trainer
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/simple_lora_trainer.ipynb) | Simple LoRA Trainer
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/advanced_trainer.ipynb) | Advanced Trainer
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/advanced_trainer.ipynb) | Advanced Trainer 🚦WIP🚦
 
 ### How To Use Train DreamBooth Standalone
 
