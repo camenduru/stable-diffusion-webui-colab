@@ -157,6 +157,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/fkunn1326/openpose-editor](https://github.com/fkunn1326/openpose-editor) (Thanks to @fkunn1326 ❤) <br />
 [https://github.com/Bing-su/sd-webui-tunnels](https://github.com/Bing-su/sd-webui-tunnels) (Thanks to @Bing-su ❤ @etherealxx ❤) <br />
 [https://github.com/jexom/sd-webui-depth-lib](https://github.com/jexom/sd-webui-depth-lib) (Thanks to @jexom ❤) <br />
+[https://github.com/hnmr293/posex](https://github.com/hnmr293/posex) (Thanks to @hnmr293 ❤) <br />
 
 ## Installed Scripts
 [https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py](https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py) <br />
