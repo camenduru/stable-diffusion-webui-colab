@@ -48,10 +48,11 @@ body:
       label: Which repo branch did the colab you use comes from ?
       multiple: true
       options:
-        - main (v1.6)
+        - v1.9
         - v2.0
         - community
         - drive
+        - training
         - I don't know
     validations:
       required: true
