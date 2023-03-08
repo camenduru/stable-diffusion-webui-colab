@@ -13,6 +13,11 @@ or please select `drive` from `switch branches/tags`
 
 ![Screenshot 2023-02-23 165554t](https://user-images.githubusercontent.com/54370274/220930939-1068cd0c-ac29-4a92-9b1d-c67f58f0aff0.png)
 
+<br />
+
+`V1.9` has a stable WebUI with stable installed extensions <br />
+`V2.0` has ControlNet and the latest WebUI and daily installed extensions updates <br />
+
 ## 🦒 Colab
 | v1.9 | v2.0 | Info - Token - Model Page
 | --- | --- | --- |
