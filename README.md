@@ -15,8 +15,8 @@ or please select `drive` from `switch branches/tags`
 
 <br />
 
-`V1.9` has a stable WebUI with stable installed extensions <br />
-`V2.0` has ControlNet and the latest WebUI and daily installed extensions updates <br />
+`V1.9` has a stable WebUI with stable installed extensions. <br />
+`V2.0` has ControlNet and the latest WebUI and daily installed extensions updates. <br />
 
 ## 🦒 Colab
 | v1.9 | v2.0 | Info - Token - Model Page
