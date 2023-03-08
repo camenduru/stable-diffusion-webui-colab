@@ -185,7 +185,7 @@ Thanks to @machiavel23 ❤ (community colab) <br />
 Thanks to @etherealxx ❤ (community colab) <br />
 Thanks to @nocrypt ❤ (community colab) <br />
 Thanks to @jeguepowerr ❤ (latest news) <br />
-Thanks to EPIC ❤ (latest news) <br />
+Thanks to @ebixbenis ❤ (latest news) <br />
 Thanks to @anuragrajput40904 ❤ (contributor) <br />
 Thanks to @HuiShingHon ❤ (contributor) <br />
 Thanks to @Siddhanta19 ❤ (contributor) <br />
