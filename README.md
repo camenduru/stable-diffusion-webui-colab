@@ -153,6 +153,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/Vetchems/sd-civitai-browser](https://github.com/Vetchems/sd-civitai-browser) (Thanks to @Vetchems ❤ @etherealxx ❤ @axsddlr ❤ @AxelFar94 ❤) <br />
 [https://github.com/kohya-ss/sd-webui-additional-networks](https://github.com/kohya-ss/sd-webui-additional-networks) (Thanks to @kohya-ss ❤) <br />
 [https://github.com/Bing-su/sd-webui-tunnels](https://github.com/Bing-su/sd-webui-tunnels) (Thanks to @Bing-su ❤ @etherealxx ❤) <br />
+[https://github.com/enlyth/sd-webui-riffusion](https://github.com/enlyth/sd-webui-riffusion) (Thanks to @enlyth ❤) <br />
 
 ## v2.0 Installed Extensions
 [https://github.com/deforum-art/deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui) (Thanks to @deforum-art ❤) <br />
@@ -166,6 +167,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/Bing-su/sd-webui-tunnels](https://github.com/Bing-su/sd-webui-tunnels) (Thanks to @Bing-su ❤ @etherealxx ❤) <br />
 [https://github.com/jexom/sd-webui-depth-lib](https://github.com/jexom/sd-webui-depth-lib) (Thanks to @jexom ❤) <br />
 [https://github.com/hnmr293/posex](https://github.com/hnmr293/posex) (Thanks to @hnmr293 ❤) <br />
+[https://github.com/enlyth/sd-webui-riffusion](https://github.com/enlyth/sd-webui-riffusion) (Thanks to @enlyth ❤) <br />
 
 ## Installed Scripts
 [https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py](https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py) <br />
