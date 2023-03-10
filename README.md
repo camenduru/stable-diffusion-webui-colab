@@ -134,9 +134,6 @@ or please select `community` from `switch branches/tags`
 
 ![Screenshot 2023-02-12 113244](https://user-images.githubusercontent.com/54370274/218300944-a6c67c6a-92a9-441e-84c5-c0f72edf53dd.jpg)
 
-## 🦆 Kaggle
-https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
-
 ## 🐳 Docker
 https://github.com/camenduru/stable-diffusion-webui-docker
 
