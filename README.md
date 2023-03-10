@@ -102,9 +102,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/padoru_v1_webui_colab.ipynb) padoru_v1_webui_colab | https://civitai.com/models/1422/padoru-diffusion
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/refslave_v2_webui_colab.ipynb) refslave_v2_webui_colab | https://huggingface.co/AgraFL/RefSlave-V2 (Thanks to Rimuru for the suggestion ❤)
 
-## 🦆 Kaggle
-https://www.kaggle.com/code/camenduru/stable-diffusion-webui-kaggle
-
 ## 🐳 Docker
 https://github.com/camenduru/stable-diffusion-webui-docker
 
