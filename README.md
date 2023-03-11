@@ -6,7 +6,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/simple_lora_trainer.ipynb) | Simple LoRA Trainer
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/advanced_trainer.ipynb) | Advanced Trainer 🚦WIP🚦
 
-### How To Use Train DreamBooth Standalone
+### How To Use Simple DreamBooth Trainer
 
 - https://www.youtube.com/watch?v=5dK1altO4Qw
 - Find someone famous who looks like you in the stable diffusion universe (use: https://starbyface.com to find and https://rom1504.github.io/clip-retrieval to search)
@@ -17,6 +17,10 @@
 - Convert diffusers to original stable diffusion (parkminyoung.ckpt) and use with your favorite WebUI
 - If you want, you can send the model to Hugging Face
 
+### How To Use Simple LoRA Trainer
+
+ - https://www.youtube.com/watch?v=bt0tEVgiAf4
+ 
 ### Licenses
 https://github.com/kohya-ss/sd-scripts/blob/main/LICENSE.md <br />
 https://github.com/huggingface/diffusers/blob/main/LICENSE <br />
