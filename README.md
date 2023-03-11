@@ -20,6 +20,12 @@
 ### How To Use Simple LoRA Trainer
 
  - https://www.youtube.com/watch?v=bt0tEVgiAf4
+
+## 🦒 Community Training Colabs (GPU)
+
+### [@kohya-ss](https://github.com/kohya-ss?tab=repositories) ❤ Trainer Colabs from [@Linaqruf](https://github.com/Linaqruf?tab=repositories) ❤ (recommended)
+
+ - https://github.com/Linaqruf/kohya-trainer
  
 ### Licenses
 https://github.com/kohya-ss/sd-scripts/blob/main/LICENSE.md <br />
