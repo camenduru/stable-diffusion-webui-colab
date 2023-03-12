@@ -15,8 +15,9 @@ or please select `drive` from `switch branches/tags`
 
 <br />
 
-`V1.9` has a stable WebUI with stable installed extensions. <br />
-`V2.0` has ControlNet and the latest WebUI and daily installed extensions updates. <br />
+`lite` has a stable WebUI and stable installed extensions. <br />
+`stable` has ControlNet, a stable WebUI, and stable installed extensions. <br />
+`nightly` has ControlNet, the latest WebUI, and daily installed extension updates. <br />
 
 ## 🦒 Colab
 | lite | stable | nightly | Info - Token - Model Page
@@ -128,7 +129,7 @@ or please select `drive` from `switch branches/tags`
 | lite | stable | nightly | Info - Token - Model Page
 | --- | --- | --- | --- |
 [![Open In Colab](https://badgen.net/badge/🦓/lite/yellow)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/riffusion_v1_webui_colab.ipynb) | [![Open In Colab](https://badgen.net/badge/🐴/stable/orange)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/riffusion_v1_webui_colab.ipynb) | [![Open In Colab](https://badgen.net/badge/🦄/nightly/pink)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/riffusion_v1_webui_colab.ipynb) | riffusion_v1_webui_colab <br /> (Use with `Script -> Riffusion Audio Generator`) <br /> (Thanks to Neverstorm for the suggestion ❤) <br /> [riffusion/riffusion-model-v1](https://huggingface.co/riffusion/riffusion-model-v1)
-| | [![Open In Colab](https://badgen.net/badge/🐴/stable/orange)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/pix2pix_webui_colab.ipynb) | [![Open In Colab](https://badgen.net/badge/🦄/nightly/pink)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/pix2pix_webui_colab.ipynb) | pix2pix_webui_colab <br /> (Thanks to Klace for the [pix2pix extension](https://github.com/Klace/stable-diffusion-webui-instruct-pix2pix) ❤) <br /> [timbrooks/instruct-pix2pix](https://huggingface.co/timbrooks/instruct-pix2pix) 
+[![Open In Colab](https://badgen.net/badge/🦓/lite/yellow)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/pix2pix_webui_colab.ipynb) | [![Open In Colab](https://badgen.net/badge/🐴/stable/orange)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/pix2pix_webui_colab.ipynb) | [![Open In Colab](https://badgen.net/badge/🦄/nightly/pink)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/pix2pix_webui_colab.ipynb) | pix2pix_webui_colab <br /> (Thanks to Klace for the [pix2pix extension](https://github.com/Klace/stable-diffusion-webui-instruct-pix2pix) ❤) <br /> [timbrooks/instruct-pix2pix](https://huggingface.co/timbrooks/instruct-pix2pix) 
 
 ## Community Colabs
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/community <br />
