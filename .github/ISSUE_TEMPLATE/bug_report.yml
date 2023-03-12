@@ -48,8 +48,9 @@ body:
       label: Which repo branch did the colab you use comes from ?
       multiple: true
       options:
-        - v1.9
-        - v2.0
+        - lite
+        - stable
+        - nightly
         - community
         - drive
         - training
