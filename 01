@@ -1,0 +1,3 @@
+hinata, hyuuga hinata, 1girl, bangs, empty_eyes, black_hair, blunt_bangs, grey eyes, grey sleeves, headband_around_neck, highres, hime cut, hooded_cardigan, long sleeves, looking_at_viewer, petals,  smile, solo, straight hair, upper body, hooded jacket, fighting pose
+Negative prompt: (painting by bad-artist-anime:0.9), (painting by bad-artist:0.9), watermark, text, error, blurry, jpeg artifacts, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, artist name, (worst quality, low quality:1.4), bad anatomy
+ENSD: 31337, Size: 512x768, Seed: 3369254898, Steps: 30, Sampler: DPM++ SDE Karras, CFG scale: 7, Model hash: 446d6762, Hires upscale: 2, Hires upscaler: 4x_foolhardy_Remacri, Denoising strength: 0.38
