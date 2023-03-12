@@ -23,9 +23,13 @@
 
 ## 🦒 Community Training Colabs (GPU)
 
-### [@kohya-ss](https://github.com/kohya-ss?tab=repositories) ❤ Trainer Colabs from [@Linaqruf](https://github.com/Linaqruf?tab=repositories) ❤ (recommended)
+### [@kohya-ss](https://github.com/kohya-ss) ❤ Trainer Colabs from [@Linaqruf](https://github.com/Linaqruf) ❤
 
  - https://github.com/Linaqruf/kohya-trainer
+ 
+### Web UI extension and standalone colab for [sd-scripts](https://github.com/kohya-ss/sd-scripts) by [@kohya-ss](https://github.com/kohya-ss) ❤ from [@ddPn08](https://github.com/ddPn08) ❤
+ 
+ - https://github.com/ddPn08/kohya-sd-scripts-webui
  
 ### Licenses
 https://github.com/kohya-ss/sd-scripts/blob/main/LICENSE.md <br />
