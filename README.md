@@ -188,6 +188,7 @@ Thanks to @nocrypt ❤ (community colab) <br />
 Thanks to @jeguepowerr ❤ (latest news) <br />
 Thanks to @ebixbenis ❤ (latest news) <br />
 Thanks to @anuragrajput40904 ❤ (contributor) <br />
+Thanks to @tahaaydn ❤ (contributor) <br />
 Thanks to @HuiShingHon ❤ (contributor) <br />
 Thanks to @Siddhanta19 ❤ (contributor) <br />
 Thanks to @fumiama ❤ (contributor) <br />
