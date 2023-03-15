@@ -144,6 +144,11 @@ or please select `community` from `switch branches/tags`
 
 ![Screenshot 2023-02-12 113244](https://user-images.githubusercontent.com/54370274/218300944-a6c67c6a-92a9-441e-84c5-c0f72edf53dd.jpg)
 
+## 🦄 Experimental Colab UI - AI Creator Archive (AICA)
+| Table | Grid |
+| --- | --- |
+[![aica.pages.dev](https://user-images.githubusercontent.com/54370274/225216055-3a3bf25d-6c2a-425b-a447-1aa39c9ef4d2.png)](https://aica.pages.dev) | [![aica.vercel.app](https://user-images.githubusercontent.com/54370274/225216036-664b5752-06fa-4510-a4db-2464eb9aa233.png)](https://aica.vercel.app)
+
 ## 🐳 Docker
 https://github.com/camenduru/stable-diffusion-webui-docker
 
@@ -204,6 +209,8 @@ Thanks to @fumiama ❤ (contributor) <br />
 Thanks to @NUROISEA ❤ (contributor) <br />
 Thanks to @joegibes ❤ (contributor) <br />
 Thanks to @KoukatsuMahoutsukai ❤ (contributor) <br />
+Thanks to @zaedrys ❤ (contributor) <br />
+Thanks to @bdulive ❤ (contributor) <br />
 
 ## Models License
 https://huggingface.co/spaces/CompVis/stable-diffusion-license
