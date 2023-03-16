@@ -64,6 +64,7 @@ body:
       description: look at the last line (launch.py) on your colab
       multiple: true
       options:
+        - --multiple
         - --googleusercontent
         - --cloudflared
         - --localhostrun
