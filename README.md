@@ -166,7 +166,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 ## Documentation
 [https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki)
 
-## v1.9 Installed Extensions
+## Lite Installed Extensions
 [https://github.com/deforum-art/deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui) (Thanks to @deforum-art ❤) <br />
 [https://github.com/yfszzx/stable-diffusion-webui-images-browser](https://github.com/yfszzx/stable-diffusion-webui-images-browser) (Thanks to @yfszzx ❤ @AlUlkesh ❤) <br />
 [https://github.com/camenduru/stable-diffusion-webui-huggingface](https://github.com/camenduru/stable-diffusion-webui-huggingface) <br />
@@ -176,7 +176,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/enlyth/sd-webui-riffusion](https://github.com/enlyth/sd-webui-riffusion) (Thanks to @enlyth ❤) <br />
 [https://github.com/etherealxx/batchlinks-webui](https://github.com/etherealxx/batchlinks-webui) (Thanks to @etherealxx ❤) <br />
 
-## v2.0 Installed Extensions
+## Stable & Nightly Installed Extensions
 [https://github.com/deforum-art/deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui) (Thanks to @deforum-art ❤) <br />
 [https://github.com/yfszzx/stable-diffusion-webui-images-browser](https://github.com/yfszzx/stable-diffusion-webui-images-browser) (Thanks to @yfszzx ❤ @AlUlkesh ❤) <br />
 [https://github.com/camenduru/stable-diffusion-webui-huggingface](https://github.com/camenduru/stable-diffusion-webui-huggingface) <br />
