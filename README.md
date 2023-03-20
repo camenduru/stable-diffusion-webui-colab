@@ -201,6 +201,8 @@ Thanks to @Daviljoe193 ❤ (colab memmory fix) <br />
 Thanks to @machiavel23 ❤ (community colab) <br />
 Thanks to @etherealxx ❤ (community colab) <br />
 Thanks to @nocrypt ❤ (community colab) <br />
+Thanks to @AIrabbit0 ❤ (community colab) <br />
+Thanks to 7743 ❤ (community colab) <br />
 Thanks to @jeguepowerr ❤ (latest news) <br />
 Thanks to @ebixbenis ❤ (latest news) <br />
 Thanks to @anuragrajput40904 ❤ (contributor) <br />
