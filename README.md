@@ -208,6 +208,7 @@ Thanks to @nocrypt ❤ (community colab) <br />
 Thanks to @AIrabbit0 ❤ (community colab) <br />
 Thanks to 7743 ❤ (community colab) <br />
 Thanks to @Hareshkumar77 ❤ (community colab) <br />
+Thanks to Hollowstrawberry ❤ (community colab) <br />
 Thanks to @jeguepowerr ❤ (latest news) <br />
 Thanks to @ebixbenis ❤ (latest news) <br />
 Thanks to @anuragrajput40904 ❤ (contributor) <br />
