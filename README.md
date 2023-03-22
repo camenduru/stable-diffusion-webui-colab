@@ -4,7 +4,7 @@
 # 🚨 Important: This Colab Notebook is obsolete!
 # 🚨 Please use https://github.com/camenduru/stable-diffusion-webui-colab for the latest updated Colab Notebooks.
 
-## How to use DreamBooth & LoRA trainer ?
+<!-- ## How to use DreamBooth & LoRA trainer ?
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/training <br />
 
 ![Screenshot 2023-03-07 050440](https://user-images.githubusercontent.com/54370274/223300990-73645a89-2ef5-4d4e-94a2-633010779e3e.png)
@@ -159,4 +159,4 @@ Thanks to @nocrypt ❤ (community colab) <br />
 Thanks to @jeguepowerr ❤ (latest news) <br />
 
 ## Models License
-https://huggingface.co/spaces/CompVis/stable-diffusion-license
+https://huggingface.co/spaces/CompVis/stable-diffusion-license -->
