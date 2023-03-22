@@ -4,7 +4,7 @@
 # 🚨 Important: This Colab Notebook is obsolete!
 # 🚨 Please use https://github.com/camenduru/stable-diffusion-webui-colab for the latest updated Colab Notebooks.
 
-## 🦒 Colab
+<!-- ## 🦒 Colab
 | Colab Page | Model Page
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/v2.0/stable_diffusion_webui_colab.ipynb) stable_diffusion_webui_colab | https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
@@ -140,4 +140,4 @@ Thanks to @machiavel23 ❤ (community colab) <br />
 Thanks to @etherealxx ❤ (community colab) <br />
 
 ## Models License
-https://huggingface.co/spaces/CompVis/stable-diffusion-license
+https://huggingface.co/spaces/CompVis/stable-diffusion-license -->
