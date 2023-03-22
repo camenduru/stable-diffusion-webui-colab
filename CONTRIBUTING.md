@@ -35,6 +35,6 @@ https://github.dev/your_username/stable-diffusion-webui-colab/tree/v2.0
 Example: papercut_diffusion_webui_colab (Use the tokens `PaperCut` in your prompts for the effect.)
 
 #### Please be careful with links
-We have two different links the main branch uses `/blob/main/` v2.0 uses `/blob/v2.0/`
+We have two different links the main branch uses `/blob/v1.6/` v2.0 uses `/blob/v2.0/`
 
 ![Screenshot 2023-02-19 172615](https://user-images.githubusercontent.com/54370274/219954475-acc937ac-8df4-4461-b25c-1a65e03dafc9.png)
