@@ -180,6 +180,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/Bing-su/sd-webui-tunnels](https://github.com/Bing-su/sd-webui-tunnels) (Thanks to @Bing-su ❤ @etherealxx ❤) <br />
 [https://github.com/enlyth/sd-webui-riffusion](https://github.com/enlyth/sd-webui-riffusion) (Thanks to @enlyth ❤) <br />
 [https://github.com/etherealxx/batchlinks-webui](https://github.com/etherealxx/batchlinks-webui) (Thanks to @etherealxx ❤) <br />
+[https://github.com/catppuccin/stable-diffusion-webui](https://github.com/catppuccin/stable-diffusion-webui) (Thanks to @catppuccin ❤) <br />
 
 ## Stable & Nightly Installed Extensions
 [https://github.com/deforum-art/deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui) (Thanks to @deforum-art ❤) <br />
@@ -195,6 +196,8 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/hnmr293/posex](https://github.com/hnmr293/posex) (Thanks to @hnmr293 ❤) <br />
 [https://github.com/enlyth/sd-webui-riffusion](https://github.com/enlyth/sd-webui-riffusion) (Thanks to @enlyth ❤) <br />
 [https://github.com/etherealxx/batchlinks-webui](https://github.com/etherealxx/batchlinks-webui) (Thanks to @etherealxx ❤) <br />
+[https://github.com/catppuccin/stable-diffusion-webui](https://github.com/catppuccin/stable-diffusion-webui) (Thanks to @catppuccin ❤) <br />
+
 
 ## Installed Scripts
 [https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py](https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py) <br />
