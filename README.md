@@ -25,10 +25,10 @@
  
 | Colab Page | Function | Author | Readme Page
 | --- | --- | --- | --- |
-[![Open in GitHub](https://user-images.githubusercontent.com/54370274/227776188-a9e140f7-a8c6-4e41-adbb-02c71b71ae80.svg)](https://github.com/Linaqruf/kohya-trainer) | Trainer Colabs | [@Linaqruf](https://github.com/Linaqruf) |  https://github.com/Linaqruf/kohya-trainer
-[![Open in GitHub](https://user-images.githubusercontent.com/54370274/227776188-a9e140f7-a8c6-4e41-adbb-02c71b71ae80.svg)](https://github.com/ddPn08/kohya-sd-scripts-webui) | Web UI extension and standalone colab | [@ddPn08](https://github.com/ddPn08) | https://github.com/ddPn08/kohya-sd-scripts-webui
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Dataset_Maker.ipynb) | Dataset Maker | [@Hollowstrawberry](https://github.com/hollowstrawberry) | https://github.com/hollowstrawberry/kohya-colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Lora_Trainer.ipynb) | Lora Trainer | [@Hollowstrawberry](https://github.com/hollowstrawberry) | https://github.com/hollowstrawberry/kohya-colab
+[![Open in GitHub](https://user-images.githubusercontent.com/54370274/227776188-a9e140f7-a8c6-4e41-adbb-02c71b71ae80.svg)](https://github.com/Linaqruf/kohya-trainer) | Trainer Colabs | [@Linaqruf](https://github.com/Linaqruf) |  [Readme](https://github.com/Linaqruf/kohya-trainer)
+[![Open in GitHub](https://user-images.githubusercontent.com/54370274/227776188-a9e140f7-a8c6-4e41-adbb-02c71b71ae80.svg)](https://github.com/ddPn08/kohya-sd-scripts-webui) | Web UI extension and standalone colab | [@ddPn08](https://github.com/ddPn08) | [Readme](https://github.com/ddPn08/kohya-sd-scripts-webui)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Dataset_Maker.ipynb) | Dataset Maker | [@Hollowstrawberry](https://github.com/hollowstrawberry) | [Readme](https://github.com/hollowstrawberry/kohya-colab)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Lora_Trainer.ipynb) | Lora Trainer | [@Hollowstrawberry](https://github.com/hollowstrawberry) | [Readme](https://github.com/hollowstrawberry/kohya-colab)
  
 ### Licenses
 https://github.com/kohya-ss/sd-scripts/blob/main/LICENSE.md <br />
