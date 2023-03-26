@@ -29,7 +29,14 @@
 [![Open in GitHub](https://user-images.githubusercontent.com/54370274/227776188-a9e140f7-a8c6-4e41-adbb-02c71b71ae80.svg)](https://github.com/ddPn08/kohya-sd-scripts-webui) | Web UI extension and standalone colab | [@ddPn08](https://github.com/ddPn08) | [Readme](https://github.com/ddPn08/kohya-sd-scripts-webui)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Dataset_Maker.ipynb) | Dataset Maker | [@Hollowstrawberry](https://github.com/hollowstrawberry) | [Readme](https://github.com/hollowstrawberry/kohya-colab)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Lora_Trainer.ipynb) | Lora Trainer | [@Hollowstrawberry](https://github.com/hollowstrawberry) | [Readme](https://github.com/hollowstrawberry/kohya-colab)
- 
+
+
+## 🐬 Training (TPU)
+
+| Page | Function | Readme Page
+| --- | --- | --- |
+[![Open in GitHub](https://user-images.githubusercontent.com/54370274/227776188-a9e140f7-a8c6-4e41-adbb-02c71b71ae80.svg)](https://github.com/camenduru/train-text-to-image-tpu-tutorial) | Training with TPU tutorial and code | [Readme](https://github.com/camenduru/train-text-to-image-tpu-tutorial)
+
 ### Licenses
 https://github.com/kohya-ss/sd-scripts/blob/main/LICENSE.md <br />
 https://github.com/huggingface/diffusers/blob/main/LICENSE <br />
