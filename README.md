@@ -184,6 +184,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/etherealxx/batchlinks-webui](https://github.com/etherealxx/batchlinks-webui) (Thanks to @etherealxx ❤) <br />
 [https://github.com/catppuccin/stable-diffusion-webui](https://github.com/catppuccin/stable-diffusion-webui) (Thanks to @catppuccin ❤) <br />
 [https://github.com/KohakuBlueleaf/a1111-sd-webui-locon](https://github.com/KohakuBlueleaf/a1111-sd-webui-locon) (Thanks to @KohakuBlueleaf ❤) <br />
+[https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg) (Thanks to @AUTOMATIC1111 ❤) <br />
 
 ## Stable & Nightly Installed Extensions
 [https://github.com/deforum-art/deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui) (Thanks to @deforum-art ❤) <br />
@@ -201,9 +202,21 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/etherealxx/batchlinks-webui](https://github.com/etherealxx/batchlinks-webui) (Thanks to @etherealxx ❤) <br />
 [https://github.com/catppuccin/stable-diffusion-webui](https://github.com/catppuccin/stable-diffusion-webui) (Thanks to @catppuccin ❤) <br />
 [https://github.com/KohakuBlueleaf/a1111-sd-webui-locon](https://github.com/KohakuBlueleaf/a1111-sd-webui-locon) (Thanks to @KohakuBlueleaf ❤) <br />
+[https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg) (Thanks to @AUTOMATIC1111 ❤) <br />
 
 ## Installed Scripts
 [https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py](https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py) <br />
+
+## Installed Loras
+[https://civitai.com/models/13941/epinoiseoffset](https://civitai.com/models/13941/epinoiseoffset) (Thanks to epinikion ❤) <br />
+
+## Installed Embeds
+[https://huggingface.co/Xynon/models](https://huggingface.co/Xynon/models) (Thanks to Xynon ❤) <br />
+[https://huggingface.co/datasets/Nerfgun3/bad_prompt](https://huggingface.co/datasets/Nerfgun3/bad_prompt) (Thanks to Nerfgun3 ❤) <br />
+[https://huggingface.co/yesyeahvh/bad-hands-5](https://huggingface.co/yesyeahvh/bad-hands-5) (Thanks to yesyeahvh ❤) <br />
+[https://huggingface.co/datasets/gsdf/EasyNegative](https://huggingface.co/datasets/gsdf/EasyNegative) (Thanks to gsdf ❤) <br />
+[https://civitai.com/models/4629/deep-negative-v1x](https://civitai.com/models/4629/deep-negative-v1x) (Thanks to FapMagi ❤) <br />
+[https://huggingface.co/NiXXerHATTER59/bad-artist](https://huggingface.co/NiXXerHATTER59/bad-artist) (Thanks to NiXXerHATTER59 ❤) <br />
 
 ## Special Thanks
 Thanks to @UWUplus ❤ (https://github.com/UWUplus/flask-cloudflared/blob/main/flask_cloudflared.py modified) <br />
