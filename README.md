@@ -6,6 +6,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/simple_lora_trainer.ipynb) | Simple LoRA Trainer
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/advanced_trainer.ipynb) | Advanced Trainer 🚦WIP🚦
 
+### 🚨 Important
+Your images should be in the same directory as your settings. Check for uppercase characters in your image names, and make sure all characters are lowercase. Your image names should only contain English characters and not include empty spaces.
+
 ### How To Use Simple DreamBooth Trainer
 
 - https://www.youtube.com/watch?v=5dK1altO4Qw
