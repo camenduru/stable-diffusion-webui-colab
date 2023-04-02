@@ -1,6 +1,10 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru <br />
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
+
+## 🏆 Diffusion Awards
+🆕 https://github.com/camenduru/DiffusionAwards
+
 ## How to use DreamBooth & LoRA trainer ?
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/training <br />
 or please select `training` from `switch branches/tags`
