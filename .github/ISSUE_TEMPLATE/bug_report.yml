@@ -49,6 +49,8 @@ body:
         - --localhostrun
         - --remotemoe
         - --share (Gradio Tunnel)
+    validations:
+      required: true
   - type: dropdown
     id: browsers
     attributes:
