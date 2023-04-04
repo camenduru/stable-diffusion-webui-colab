@@ -1,5 +1,6 @@
 name: Bug Report
 description: You think somethings is broken or not working as expected
+title: "[Bug]: "
 labels: ["bug-report"]
 
 body:
