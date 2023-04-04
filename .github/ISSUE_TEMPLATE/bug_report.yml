@@ -20,10 +20,10 @@ body:
       label: Console logs
       description: Please provide **full** cmd/terminal logs from the moment there is an error (usually starts with 'Traceback'), after your bug happened. If it's very long, provide a link to pastebin or similar service.
       render: shell
-  - type: input
+  - type: textarea
     id: model
     attributes:
-      label: Which model were you using when the error occurred?
+      label: Which model(s) were you using when the error occurred?
       description: Please enter the model link.
       placeholder: ex. https://civitai.com/models/4823/deliberate
     validations:
