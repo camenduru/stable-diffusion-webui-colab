@@ -34,11 +34,9 @@ body:
   - type: textarea
     id: png-info
     attributes:
-      label: Please provide the PNG Info when the error occurred?
-      description: PNG Info from WebUI
+      label: Please provide the non-prompt part of the PNG Info when the error occurred?
+      description: PNG Info after Negative prompt
       placeholder: |
-        1girl, blonde hair, hair between eyes,
-        Negative prompt: (low quality, worst quality:1.4),
         Steps: 20, Sampler: Euler a, CFG scale: 6, Seed: 1657278826, Size: 640x896, Model hash: bd518b9aee, Model: Cetus_mix_coda, Denoising strength: 0.4, Clip skip: 2, Hires upscale: 2.85, Hires upscaler: R-ESRGAN 4x+
     validations:
       required: true
