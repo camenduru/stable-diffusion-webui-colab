@@ -20,46 +20,11 @@ body:
       label: Console logs
       description: Please provide **full** cmd/terminal logs from the moment there is an error (usually starts with 'Traceback'), after your bug happened. If it's very long, provide a link to pastebin or similar service.
       render: shell
-  - type: dropdown
-    id: branch
+  - type: input
+    id: model
     attributes:
-      label: Which repo branch did the colab you use comes from ?
-      multiple: true
-      options:
-        - lite
-        - stable
-        - nightly
-        - community
-        - drive
-        - training
-        - I don't know
-    validations:
-      required: true
-  - type: dropdown
-    id: tunnel
-    attributes:
-      label: Which tunnel did you use ? 
-      description: look at the last line (launch.py) on your colab
-      multiple: true
-      options:
-        - --multiple
-        - --googleusercontent
-        - --cloudflared
-        - --localhostrun
-        - --remotemoe
-        - --share (Gradio Tunnel)
-    validations:
-      required: true
-  - type: dropdown
-    id: browsers
-    attributes:
-      label: What browsers do you use to access the WebUI ?
-      multiple: true
-      options:
-        - Mozilla Firefox
-        - Google Chrome
-        - Brave
-        - Apple Safari
-        - Microsoft Edge
+      label: Which model were you using when the error occurred?
+      description: Please enter the model link.
+      placeholder: ex. https://civitai.com/models/4823/deliberate
     validations:
       required: true
