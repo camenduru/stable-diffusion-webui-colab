@@ -25,6 +25,20 @@ body:
     attributes:
       label: Which model(s) were you using when the error occurred?
       description: Please enter the model link.
-      placeholder: ex. https://civitai.com/models/4823/deliberate
+      placeholder: |
+        https://civitai.com/models/6755/cetus-mix
+        https://civitai.com/models/8217/fashion-girl
+        https://civitai.com/models/12597/moxin
+    validations:
+      required: true
+  - type: textarea
+    id: png-info
+    attributes:
+      label: Please provide the PNG Info when the error occurred?
+      description: PNG Info from WebUI
+      placeholder: |
+        1girl, blonde hair, hair between eyes,
+        Negative prompt: (low quality, worst quality:1.4),
+        Steps: 20, Sampler: Euler a, CFG scale: 6, Seed: 1657278826, Size: 640x896, Model hash: bd518b9aee, Model: Cetus_mix_coda, Denoising strength: 0.4, Clip skip: 2, Hires upscale: 2.85, Hires upscaler: R-ESRGAN 4x+
     validations:
       required: true
