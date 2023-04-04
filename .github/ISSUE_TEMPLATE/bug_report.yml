@@ -11,7 +11,7 @@ body:
     id: what-did
     attributes:
       label: What happened?
-      description: Tell us what happened in a very clear and simple way
+      description: Please tell us what happened in a very clear and simple way
     validations:
       required: true
   - type: textarea
@@ -34,9 +34,9 @@ body:
   - type: textarea
     id: png-info
     attributes:
-      label: Please provide the non-prompt part of the PNG Info when the error occurred?
-      description: PNG Info after Negative prompt
+      label: If you used HiRes mode when the error occurred, please provide the Hires info
+      description: Upscaler, Hires steps, Denoising strength, Upscale by ...
       placeholder: |
-        Steps: 20, Sampler: Euler a, CFG scale: 6, Seed: 1657278826, Size: 640x896, Model hash: bd518b9aee, Model: Cetus_mix_coda, Denoising strength: 0.4, Clip skip: 2, Hires upscale: 2.85, Hires upscaler: R-ESRGAN 4x+
+        Hires upscale: 2.85, Hires upscaler: R-ESRGAN 4x+
     validations:
-      required: true
+      required: false
