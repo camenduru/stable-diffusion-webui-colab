@@ -24,12 +24,25 @@ body:
   - type: textarea
     id: model
     attributes:
-      label: Which model(s) were you using when the error occurred?
-      description: Please enter the model link.
+      label: Which colab and model(s) were you using when the error occurred?
+      description: Please enter the colab and model(s) link.
       placeholder: |
+        https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/stable_diffusion_webui_colab.ipynb
         https://civitai.com/models/6755/cetus-mix
         https://civitai.com/models/8217/fashion-girl
         https://civitai.com/models/12597/moxin
+    validations:
+      required: true
+  - type: dropdown
+    id: link
+    attributes:
+      label: Which Public WebUI Colab URL were you using when the error occurred?
+      description: Public WebUI Colab URL
+      options:
+        - remote.moe
+        - gradio.live
+        - lhr.life
+        - trycloudflare.com
     validations:
       required: true
   - type: textarea
