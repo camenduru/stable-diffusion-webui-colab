@@ -26,9 +26,6 @@ You can also free up more space by deleting the default model in your drive.
 
 ![Screenshot 2023-02-24 140908](https://user-images.githubusercontent.com/54370274/221165025-706b6385-8cb2-4fe1-9334-2762013b9dce.png)
 
-If you don't plan to use ControlNet models, you can also free up space by deleting them.
+If you don't plan to use ControlNet models, you can also free up space by deleting them. (thanks to twitter@muadoyoki ❤)
 
 ![Screenshot 2023-02-24 141259](https://user-images.githubusercontent.com/54370274/221165764-b4db7c3c-0cc9-4976-a922-395bb72a002d.png)
-
-
-thanks to twitter@muadoyoki ❤
