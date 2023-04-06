@@ -210,7 +210,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/ashen-sensored/stable-diffusion-webui-two-shot](https://github.com/ashen-sensored/stable-diffusion-webui-two-shot) (Thanks to @opparco ❤  @ashen-sensored ❤) <br />
 [https://github.com/ashen-sensored/sd_webui_stealth_pnginfo](https://github.com/ashen-sensored/sd_webui_stealth_pnginfo) (Thanks to @ashen-sensored ❤ @gitadmin0608 ❤) <br />
 
-## Stable & Nightly Installed Extensions
+## Stable & Nightly & Drive Installed Extensions
 [https://github.com/deforum-art/deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui) (Thanks to @deforum-art ❤) <br />
 [https://github.com/yfszzx/stable-diffusion-webui-images-browser](https://github.com/yfszzx/stable-diffusion-webui-images-browser) (Thanks to @yfszzx ❤ @AlUlkesh ❤) <br />
 [https://github.com/camenduru/stable-diffusion-webui-huggingface](https://github.com/camenduru/stable-diffusion-webui-huggingface) <br />
