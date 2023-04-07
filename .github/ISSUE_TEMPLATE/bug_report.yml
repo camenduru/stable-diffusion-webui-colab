@@ -18,9 +18,62 @@ body:
   - type: textarea
     id: logs
     attributes:
-      label: Console logs
-      description: Please provide **full** cmd/terminal logs from the moment there is an error (usually starts with 'Traceback'), after your bug happened. If it's very long, provide a link to pastebin or similar service.
+      label: Colab cell output
+      description: Please copy paste everything from the colab cell output here.
+      placeholder: |
+        Downloading (…)olve/main/vocab.json: 100% 961k/961k [00:00<00:00, 1.60MB/s]
+        Downloading (…)olve/main/merges.txt: 100% 525k/525k [00:00<00:00, 1.64MB/s]
+        Downloading (…)cial_tokens_map.json: 100% 389/389 [00:00<00:00, 96.0kB/s]
+        Downloading (…)okenizer_config.json: 100% 905/905 [00:00<00:00, 228kB/s]
+        Downloading (…)lve/main/config.json: 100% 4.52k/4.52k [00:00<00:00, 391kB/s]
+        Loading VAE weights found near the checkpoint: /content/stable-diffusion-webui/models/Stable-diffusion/Anything-V3.0-pruned.vae.pt
+        Applying xformers cross attention optimization.
+        Textual inversion embeddings loaded(7): EasyNegative, bad-artist-anime, bad-hands-5, bad-artist, bad_prompt_version2, bad-image-v2-39000, ng_deepnegative_v1_75t
+        Model loaded in 42.9s (calculate hash: 22.2s, load weights from disk: 6.9s, create model: 3.5s, apply weights to model: 2.5s, apply half(): 3.9s, load VAE: 2.0s, move model to device: 1.6s, load textual inversion embeddings: 0.2s).
+        *Deforum ControlNet support: enabled*
+        Image Browser: Creating database
+        Image Browser: Database created
+        Public WebUI Colab URL: http://oclhhmhk427aqrjmfwnou6b5opdc2lqd5jaxvzqcina5yr5mubuq.remote.moe 
+        Public WebUI Colab URL: https://14c2c054-3092-4cf9.gradio.live 
+        Public WebUI Colab URL: https://0bdfc1e44fa4a4.lhr.life
+        Public WebUI Colab URL: https://passport-systems-removed-three.trycloudflare.com
+        Startup time: 118.1s (import torch: 9.1s, import gradio: 1.4s, import ldm: 1.8s, other imports: 1.7s, setup codeformer: 0.2s, load scripts: 44.1s, load SD checkpoint: 43.3s, create ui: 16.3s, gradio launch: 0.2s).
+        Downloading: "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.2.4/RealESRGAN_x4plus_anime_6B.pth" to /content/stable-diffusion-webui/models/RealESRGAN/RealESRGAN_x4plus_anime_6B.pth
+        
+        100% 17.1M/17.1M [00:00<00:00, 64.7MB/s]
+          Tile 1/121
+          Tile 119/121
+          Tile 120/121
+          Tile 121/121
+        Error executing callback before_image_saved_callback for /content/stable-diffusion-webui/extensions/sd_webui_stealth_pnginfo/scripts/stealth_pnginfo.py
+        Traceback (most recent call last):
+          File "/content/stable-diffusion-webui/modules/script_callbacks.py", line 151, in before_image_saved_callback
+            c.callback(params)
+          File "/content/stable-diffusion-webui/extensions/sd_webui_stealth_pnginfo/scripts/stealth_pnginfo.py", line 20, in add_stealth_pnginfo
+            str_parameters = params.pnginfo['parameters']
+        KeyError: 'parameters'
+
+        Error completing request
+        Arguments: (0, <PIL.Image.Image image mode=RGB size=2048x2048 at 0x7FE0ED71BA60>, None, '', '', True, 0, 4, 512, 512, True, 'R-ESRGAN 4x+ Anime6B', 'None', 0, 0, 0, 0, 'None', False, False, 240, 10, 10) {}
+        Traceback (most recent call last):
+          File "/content/stable-diffusion-webui/modules/call_queue.py", line 56, in f
+            res = list(func(*args, **kwargs))
+          File "/content/stable-diffusion-webui/modules/call_queue.py", line 37, in f
+            res = func(*args, **kwargs)
+          File "/content/stable-diffusion-webui/modules/postprocessing.py", line 70, in run_postprocessing
+            images.save_image(pp.image, path=outpath, basename=basename, seed=None, prompt=None, extension=opts.samples_format, info=infotext, short_filename=True, no_prompt=True, grid=False, pnginfo_section_name="extras", existing_info=existing_pnginfo, forced_filename=None)
+          File "/content/stable-diffusion-webui/modules/images.py", line 584, in save_image
+            _atomically_save_image(image, fullfn_without_extension, extension)
+          File "/content/stable-diffusion-webui/modules/images.py", line 554, in _atomically_save_image
+            image_to_save.save(temp_file_path, format=image_format, quality=opts.jpeg_quality, pnginfo=pnginfo_data)
+          File "/usr/local/lib/python3.9/dist-packages/PIL/Image.py", line 2431, in save
+            save_handler(self, fp, filename)
+          File "/usr/local/lib/python3.9/dist-packages/PIL/PngImagePlugin.py", line 1331, in _save
+            data = name + b"\0\0" + zlib.compress(icc)
+        TypeError: a bytes-like object is required, not 'str'
       render: shell
+    validations:
+      required: true
   - type: textarea
     id: model
     attributes:
