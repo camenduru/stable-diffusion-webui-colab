@@ -1,9 +1,7 @@
 Configuration and Customization 
 ======
 
-This is customized notebook from [Camenduru Drive colab notebook](https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive)
 
-With main feature is config files working in both kaggle and colab
 ---
 Fork the config from https://github.com/ark5mith/sd-configs
 ****
@@ -16,6 +14,33 @@ Notebooks
 [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/roykent/stablediffusionwebui-configured) | ConfigKaggle | [Readme](https://github.com/ark5mith/stable-diffusion-webui-colab/blob/community/ark5mith/readme.md)
 
 ****
+
+This is customized notebook from [Camenduru Drive colab notebook](https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive)
+
+With main feature is config files working in both kaggle and colab
+---
+
+Store style and edit in git, use in colab and kaggle
+---
+<img width="431" alt="image" src="https://user-images.githubusercontent.com/115693126/230573582-acc8593e-c9ad-48bf-a44c-3d0dfd3056b5.png">
+
+Store webui config and edit in git, unlock the limitation and adjust default prompt, setting, sliders.
+---
+<img width="461" alt="image" src="https://user-images.githubusercontent.com/115693126/230573714-3d14411f-d5fc-40d8-b2fe-e0584e22969f.png">
+
+***COLAB GOOGLE DRIVE SPECIFIC FEATURE***
+===
+
+Give some extension a try just by pasting link, then use install/update notebook
+---
+<img width="930" alt="image" src="https://user-images.githubusercontent.com/115693126/230574006-2ba4919d-b23f-4c58-910e-7629af156e2a.png">
+
+
+However model you want, create custom name, paste the link, then use install/update notebook
+---
+<img width="305" alt="image" src="https://user-images.githubusercontent.com/115693126/230573411-5f80c2a3-30b7-4a43-a376-72e76b3c6e2a.png">
+
+
 
 Running the Install/Update Colab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ark5mith/stable-diffusion-webui-colab/blob/community/ark5mith/INSTALL-UPDATE_ConfigDrive_Colab_Kaggle.ipynb)
 ---
@@ -140,9 +165,12 @@ Edit styles in `style.csv`. Style Name- Prompt - Negative Prompt
 
 <img width="924" alt="image" src="https://user-images.githubusercontent.com/115693126/230477488-30121fe2-a811-4417-9328-6483a27533dc.png">
 
-Edit WEBUI in `sd-config.json`. Like default step, size, sampling. Unlock step and modify slider limits. Change language. Anything,
+Edit default WebUI in `sd-config.json`. Like default prompt, step, size, sampling, etc. Unlock step and modify slider limits. Change default language if you install language extension. Anything. Stop wasting time inputing numbers and playing slider!
 
 <img width="383" alt="image" src="https://user-images.githubusercontent.com/115693126/230477745-955b5d94-76f0-4ad2-a905-e372c49a8dfb.png">
+
+Edit default Settings tab of WebUI in `config.json`. Stop reloading WebUI to configure setting each time you run a notebook, less time wasted!
+<img width="674" alt="image" src="https://user-images.githubusercontent.com/115693126/230577066-4f827926-2f25-4e11-bb41-175498aad11a.png">
 
 
 ---
