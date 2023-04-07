@@ -5,7 +5,7 @@
 ## 🏆 Diffusion Awards
 Open Source Model and Project Awards
 
-[![Diffusion Awards](https://user-images.githubusercontent.com/54370274/229909399-6ac5ce66-b8e8-4d97-b5e7-0cb2e4887ff7.png)](https://github.com/camenduru/DiffusionAwards)
+[![Diffusion Awards](https://user-images.githubusercontent.com/54370274/230508650-9fe0f8e7-a1ce-414b-8a55-25436c8f539d.png)](https://github.com/camenduru/DiffusionAwards)
 🐣 https://twitter.com/DiffusionAwards <br />
 [🏆 Diffusion Awards Details](https://github.com/camenduru/DiffusionAwards) <br />
 [🏆 Award Application Form](https://github.com/camenduru/DiffusionAwards/issues/new?assignees=&labels=&template=award_application.yml) <br />
