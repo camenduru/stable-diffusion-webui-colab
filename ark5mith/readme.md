@@ -162,7 +162,7 @@ Go to dist folder in your fork and edit any file
 
 <img width="567" alt="image" src="https://user-images.githubusercontent.com/115693126/230477213-80faf581-0d43-4ca1-8843-6b3542962d5e.png">
 
-Edit styles in `style.csv`. Style Name- Prompt - Negative Prompt
+Edit styles in `style.csv`. Style Name- Prompt - Negative Prompt. Shift+Scroll Down to horizontally scroll, there are negative prompts in some styles.
 
 <img width="924" alt="image" src="https://user-images.githubusercontent.com/115693126/230477488-30121fe2-a811-4417-9328-6483a27533dc.png">
 
