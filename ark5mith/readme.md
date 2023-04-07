@@ -22,7 +22,8 @@ With main feature is config files working in both kaggle and colab
 
 Store style and edit in git, use in colab and kaggle
 ---
-<img width="431" alt="image" src="https://user-images.githubusercontent.com/115693126/230573582-acc8593e-c9ad-48bf-a44c-3d0dfd3056b5.png">
+<img width="431" alt="image" src="https://user-images.githubusercontent.com/115693126/230573582-acc8593e-c9ad-48bf-a44c-3d0dfd3056b5.png"> Imagine never using style in colab <img width="185" alt="image" src="https://user-images.githubusercontent.com/115693126/230579988-79aa8f9c-68f2-491f-9888-af6da5d58297.png">
+
 
 Store webui config and edit in git, unlock the limitation and adjust default prompt, setting, sliders.
 ---
