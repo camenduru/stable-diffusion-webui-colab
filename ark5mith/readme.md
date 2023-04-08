@@ -9,7 +9,7 @@ Notebooks
 
 |  Link | Function or Name | Readme Page
 | --- | --- | --- | 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ark5mith/stable-diffusion-webui-colab/blob/community/ark5mith/INSTALL-UPDATE_ConfigDrive_Colab_Kaggle.ipynb) | ConfigDrive Install/Update | [Readme](https://colab.research.google.com/github/ark5mith/stable-diffusion-webui-colab/blob/community/ark5mith/INSTALL-UPDATE_ConfigDrive_Colab_Kaggle.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ark5mith/stable-diffusion-webui-colab/blob/community/ark5mith/INSTALL-UPDATE_ConfigDrive_Colab_Kaggle.ipynb) | ConfigDrive Install/Update | [Readme](https://github.com/ark5mith/stable-diffusion-webui-colab/blob/community/ark5mith/readme.md)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ark5mith/stable-diffusion-webui-colab/blob/community/ark5mith/RUN_ConfigDrive_Colab_Kaggle.ipynb) | ConfigDrive Run | [Readme](https://github.com/ark5mith/stable-diffusion-webui-colab/blob/community/ark5mith/readme.md)
 [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/roykent/stablediffusionwebui-configured) | ConfigKaggle | [Readme](https://github.com/ark5mith/stable-diffusion-webui-colab/blob/community/ark5mith/readme.md)
 
@@ -39,6 +39,9 @@ Give some extension a try just by pasting link, then use install/update notebook
 
 However model you want, create custom name, paste the link, then use install/update notebook
 ---
+
+Don't use GPU, you can run it while WebUI running. Recommended for extensions.
+But for models, use CivitAI tab much better. For link other than huggingface, try batchlinkdownloader.
 <img width="305" alt="image" src="https://user-images.githubusercontent.com/115693126/230573411-5f80c2a3-30b7-4a43-a376-72e76b3c6e2a.png">
 
 
@@ -87,7 +90,8 @@ Running the Run Colab Notebook [![Open In Colab](https://colab.research.google.c
 
 1. There are a lot of configuration that is pretty self explanatory
 
-<img width="518" alt="image" src="https://user-images.githubusercontent.com/115693126/230470693-ed0e03ca-e0c7-467d-baf2-4128e3fd89fd.png">
+![image](https://user-images.githubusercontent.com/115693126/230738383-9d1dc947-efe0-4615-97da-0472d3261e88.png)
+
 
 2. Arguments. Have some debates. I don't know what clip use is but NIKE. Actually it is blue because it have link. Also have text based form.
 
@@ -119,7 +123,7 @@ Running the Run Colab Notebook [![Open In Colab](https://colab.research.google.c
 
 
 
-Big thanks to Camenduru 💌 for always up to date and reliable colab
+Big thanks to Camenduru and all Contributor and Collaborator  💌  for always up to date and reliable colab
 
 Thanks to [ChatGPT](https://chat.openai.com/chat) for providing 24/7 assistance. You can look how dependent i'm in [using ChatGPT](https://sharegpt.com/c/Z8KX0c4)
 
