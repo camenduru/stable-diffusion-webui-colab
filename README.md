@@ -5,7 +5,7 @@
 ## 🏆 Diffusion Awards
 Open Source Model and Project Awards
 
-[![Diffusion Awards](https://user-images.githubusercontent.com/54370274/230508650-9fe0f8e7-a1ce-414b-8a55-25436c8f539d.png)](https://github.com/camenduru/DiffusionAwards)
+[![DiffusionAwards](https://user-images.githubusercontent.com/54370274/231966210-b9ba4ef3-e7c7-4215-837b-8a9260e8d7c2.png)](https://github.com/camenduru/DiffusionAwards)
 🐣 https://twitter.com/DiffusionAwards <br />
 [🏆 Diffusion Awards Details](https://github.com/camenduru/DiffusionAwards) <br />
 [🏆 Award Application Form](https://github.com/camenduru/DiffusionAwards/issues/new?assignees=&labels=&template=award_application.yml) <br />
@@ -238,6 +238,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 
 ## Installed Loras
 [https://civitai.com/models/13941/epinoiseoffset](https://civitai.com/models/13941/epinoiseoffset) (Thanks to epinikion ❤) <br />
+[https://civitai.com/models/16014/anime-lineart-manga-like-style](https://civitai.com/models/16014/anime-lineart-manga-like-style) (Thanks to CyberAIchemist ❤) <br />
 
 ## Installed Embeds
 [https://huggingface.co/Xynon/models](https://huggingface.co/Xynon/models) (Thanks to Xynon ❤) <br />
