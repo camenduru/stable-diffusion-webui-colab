@@ -13,8 +13,6 @@
 - Before training, please ensure that you delete the `.ipynb_checkpoints` folder if it exists.
 
 ### How To Use Simple DreamBooth Trainer
-
-- https://www.youtube.com/watch?v=5dK1altO4Qw
 - Find someone famous who looks like you in the stable diffusion universe (use: https://starbyface.com to find and https://rom1504.github.io/clip-retrieval to search)
 - I will try to train a Stable Diffusion model for the streamer Hachubby. 
 - I will use Park Min-young as a reference, but the prompt keyword will be 'parkminyoung'
@@ -22,10 +20,6 @@
 - Set instance_prompt: parkminyoung, click play button
 - Convert diffusers to original stable diffusion (parkminyoung.ckpt) and use with your favorite WebUI
 - If you want, you can send the model to Hugging Face
-
-### How To Use Simple LoRA Trainer
-
- - https://www.youtube.com/watch?v=bt0tEVgiAf4
 
 ## 🦒 Community [@kohya-ss](https://github.com/kohya-ss) ❤ Training Colabs (GPU)
  
