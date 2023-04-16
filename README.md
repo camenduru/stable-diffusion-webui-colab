@@ -28,7 +28,7 @@ or please select `drive` from `switch branches/tags`
 
 `lite` has a stable WebUI and stable installed extensions. <br />
 `stable` has ControlNet, a stable WebUI, and stable installed extensions. <br />
-`nightly` has ControlNet, the latest WebUI, and daily installed extension updates. <br />
+`nightly` has ControlNet v1.1, the latest WebUI, and daily installed extension updates. <br />
 
 ## 🦒 Colab
 | lite | stable | nightly | Info - Token - Model Page
