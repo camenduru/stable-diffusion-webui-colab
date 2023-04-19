@@ -1,17 +1,6 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru <br />
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
-
-## 🏆 Diffusion Awards
-Open Source Model and Project Awards
-
-[![DiffusionAwards](https://user-images.githubusercontent.com/54370274/231966210-b9ba4ef3-e7c7-4215-837b-8a9260e8d7c2.png)](https://github.com/camenduru/DiffusionAwards)
-🐣 https://twitter.com/DiffusionAwards <br />
-[🏆 Diffusion Awards Details](https://github.com/camenduru/DiffusionAwards) <br />
-[🏆 Award Application Form](https://github.com/camenduru/DiffusionAwards/issues/new?assignees=&labels=&template=award_application.yml) <br />
-[🏆 Sponsorship Application Form](https://github.com/camenduru/DiffusionAwards/issues/new?assignees=&labels=&template=sponsor_application.yml) <br />
-[🏆 Media Sponsorship Application Form](https://github.com/camenduru/DiffusionAwards/issues/new?assignees=&labels=&template=media_sponsor_application.yml) <br />
-
 ## How to use DreamBooth & LoRA trainer ?
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/training <br />
 or please select `training` from `switch branches/tags`
