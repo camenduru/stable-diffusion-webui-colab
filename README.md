@@ -1,6 +1,10 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru <br />
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
+## 🚨 Important 🚨 If you receive this warning. Please do not use Colab with multiple accounts!
+### From [colab limitations-and-restrictions](https://research.google.com/colaboratory/faq.html#limitations-and-restrictions) "Using multiple accounts to work around access or resource usage restrictions." <br />
+![image](https://user-images.githubusercontent.com/54370274/233452207-0163fa74-8273-4923-a690-251fb6b666ec.png)
+
 ## How to use DreamBooth & LoRA trainer ?
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/training <br />
 or please select `training` from `switch branches/tags`
