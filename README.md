@@ -3,7 +3,7 @@
 
 ## 🚨 Important 🚨 If you receive this warning. Please do not use Colab with multiple accounts!
 ### From [colab limitations-and-restrictions](https://research.google.com/colaboratory/faq.html#limitations-and-restrictions) "Using multiple accounts to work around access or resource usage restrictions." <br />
-### Only free accounts are receiving the warning! https://www.youtube.com/watch?v=QcLq-OSIh1k <br />
+### Only free accounts are receiving the warning! <br /> https://www.youtube.com/watch?v=QcLq-OSIh1k <br />
 ![Only free accounts are receiving the warning!](https://user-images.githubusercontent.com/54370274/233472716-3e80538e-6305-46e3-97fa-027033f05bb6.png)
 
 ## How to use DreamBooth & LoRA trainer ?
