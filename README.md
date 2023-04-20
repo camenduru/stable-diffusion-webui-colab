@@ -2,6 +2,7 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
 ## 🚨 Important 🚨 If you receive this warning. Please do not use Colab with multiple accounts!
+### Only free accounts are receiving the warning! https://www.youtube.com/watch?v=QcLq-OSIh1k <br />
 ### From [colab limitations-and-restrictions](https://research.google.com/colaboratory/faq.html#limitations-and-restrictions) "Using multiple accounts to work around access or resource usage restrictions." <br />
 ![image](https://user-images.githubusercontent.com/54370274/233452207-0163fa74-8273-4923-a690-251fb6b666ec.png)
 
