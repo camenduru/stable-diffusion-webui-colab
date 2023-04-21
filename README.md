@@ -1,10 +1,7 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru <br />
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
-## 🚨 Important 🚨 If you receive this warning. Please do not use Colab with multiple accounts!
-### From [colab limitations-and-restrictions](https://research.google.com/colaboratory/faq.html#limitations-and-restrictions) "Using multiple accounts to work around access or resource usage restrictions." <br />
-### Only free accounts are receiving the warning! <br /> https://www.youtube.com/watch?v=QcLq-OSIh1k <br />
-![Only free accounts are receiving the warning!](https://user-images.githubusercontent.com/54370274/233472716-3e80538e-6305-46e3-97fa-027033f05bb6.png)
+## 🚨 Important 🚨 According to the [official statement](https://twitter.com/thechrisperry/status/1649189902079381505), the Colab Free of charge tier is not available for the Stable Diffusion WebUI 😭 We can only use it with any paid plan. https://twitter.com/thechrisperry/status/1649193506957828096
 
 ## How to use DreamBooth & LoRA trainer ?
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/training <br />
