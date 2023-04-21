@@ -1,7 +1,7 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru <br />
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
-## 🚨 Important 🚨 According to the [official statement](https://twitter.com/thechrisperry/status/1649189902079381505), the Colab Free of charge tier is not available for the Stable Diffusion WebUI 😭 We can only use it with any paid plan. https://twitter.com/thechrisperry/status/1649193506957828096
+## 🚨 Important 🚨 According to the [official statement](https://twitter.com/thechrisperry/status/1649189902079381505), the Colab Free of charge tier is not available for the Stable Diffusion WebUI 😭 We can only use it with [any paid plan](https://twitter.com/thechrisperry/status/1649193506957828096)
 
 ## How to use DreamBooth & LoRA trainer ?
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/training <br />
