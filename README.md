@@ -222,6 +222,9 @@ or please select `community` from `switch branches/tags`
 ## 🐳 Docker
 https://github.com/camenduru/stable-diffusion-webui-docker
 
+## 🍇 Sagemaker
+https://github.com/camenduru/stable-diffusion-webui-sagemaker
+
 ## Tutorials
 How to Use: https://youtu.be/ZUbLoMt_wa0 <br />
 How To Use With Google Drive: https://youtu.be/zjeziAAKx-o <br />
@@ -294,7 +297,6 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://huggingface.co/NiXXerHATTER59/bad-artist](https://huggingface.co/NiXXerHATTER59/bad-artist) (Thanks to NiXXerHATTER59 ❤) <br />
 
 ## Special Thanks
-Thanks to @UWUplus ❤ (https://github.com/UWUplus/flask-cloudflared/blob/main/flask_cloudflared.py modified) <br />
 Thanks to @thx-pw ❤ (colab memmory fix) <br />
 Thanks to @Daviljoe193 ❤ (colab memmory fix) <br />
 Thanks to @machiavel23 ❤ (community colab) <br />
