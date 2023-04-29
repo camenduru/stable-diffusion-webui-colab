@@ -11,6 +11,10 @@ Stable Diffusion WebUI Colab With Google Drive: https://www.youtube.com/watch?v=
 
 🚨 Important for 15G Free Google Drive Users: 
 
+If you have enough space, remove the # character before the line
+ 
+![image](https://user-images.githubusercontent.com/54370274/235278379-b7993166-e09d-48b9-ac0f-673a1262fcfd.png)
+
 If you want to use more models, you can download your model into Colab, which has an empty 50GB space. 
 
 Download models into `/content/models` WebUI automaticly will find your models under `/content/models` and `/content/drive/MyDrive/stable-diffusion-webui-colab/stable-diffusion-webui/models/Stable-diffusion`
