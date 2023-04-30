@@ -320,6 +320,7 @@ Thanks to @joegibes ❤ (contributor) <br />
 Thanks to @KoukatsuMahoutsukai ❤ (contributor) <br />
 Thanks to @zaedrys ❤ (contributor) <br />
 Thanks to @bdulive ❤ (contributor) <br />
+Thanks to chiraggg ❤ (suggestion of the dev test colab extensions) <br />
 
 ## Models License
 https://huggingface.co/spaces/CompVis/stable-diffusion-license
