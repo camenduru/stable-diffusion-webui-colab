@@ -317,6 +317,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 ## Installed Loras
 [https://civitai.com/models/13941/epinoiseoffset](https://civitai.com/models/13941/epinoiseoffset) (Thanks to epinikion ❤) <br />
 [https://civitai.com/models/16014/anime-lineart-manga-like-style](https://civitai.com/models/16014/anime-lineart-manga-like-style) (Thanks to CyberAIchemist ❤) <br />
+[https://civitai.com/models/10753/latentlabs360](https://civitai.com/models/10753/latentlabs360) (Thanks to LatentLabs ❤) <br />
 
 ## Installed Embeds
 [https://huggingface.co/Xynon/models](https://huggingface.co/Xynon/models) (Thanks to Xynon ❤) <br />
