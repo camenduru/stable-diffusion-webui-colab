@@ -278,6 +278,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/ashen-sensored/stable-diffusion-webui-two-shot](https://github.com/ashen-sensored/stable-diffusion-webui-two-shot) (Thanks to @opparco ❤  @ashen-sensored ❤) <br />
 [https://github.com/ashen-sensored/sd_webui_stealth_pnginfo](https://github.com/ashen-sensored/sd_webui_stealth_pnginfo) (Thanks to @ashen-sensored ❤ @gitadmin0608 ❤) <br />
 [https://github.com/thomasasfk/sd-webui-aspect-ratio-helper](https://github.com/thomasasfk/sd-webui-aspect-ratio-helper) (Thanks to @thomasasfk ❤) <br />
+[https://github.com/tjm35/asymmetric-tiling-sd-webui](https://github.com/tjm35/asymmetric-tiling-sd-webui) (Thanks to @tjm35 ❤) <br />
 
 ## Stable & Nightly & Drive Installed Extensions
 [https://github.com/deforum-art/deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui) (Thanks to @deforum-art ❤) <br />
@@ -300,6 +301,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/ashen-sensored/sd_webui_stealth_pnginfo](https://github.com/ashen-sensored/sd_webui_stealth_pnginfo) (Thanks to @ashen-sensored ❤ @gitadmin0608 ❤) <br />
 [https://github.com/nonnonstop/sd-webui-3d-open-pose-editor](https://github.com/nonnonstop/sd-webui-3d-open-pose-editor) (Thanks to @nonnonstop ❤) <br />
 [https://github.com/thomasasfk/sd-webui-aspect-ratio-helper](https://github.com/thomasasfk/sd-webui-aspect-ratio-helper) (Thanks to @thomasasfk ❤) <br />
+[https://github.com/tjm35/asymmetric-tiling-sd-webui](https://github.com/tjm35/asymmetric-tiling-sd-webui) (Thanks to @tjm35 ❤) <br />
 
 ## Video Installed Extensions
 [https://github.com/volotat/SD-CN-Animation](https://github.com/volotat/SD-CN-Animation) (Thanks to @volotat ❤)  <br />
