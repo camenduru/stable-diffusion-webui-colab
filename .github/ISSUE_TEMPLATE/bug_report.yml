@@ -45,14 +45,6 @@ body:
           Tile 119/121
           Tile 120/121
           Tile 121/121
-        Error executing callback before_image_saved_callback for /content/stable-diffusion-webui/extensions/sd_webui_stealth_pnginfo/scripts/stealth_pnginfo.py
-        Traceback (most recent call last):
-          File "/content/stable-diffusion-webui/modules/script_callbacks.py", line 151, in before_image_saved_callback
-            c.callback(params)
-          File "/content/stable-diffusion-webui/extensions/sd_webui_stealth_pnginfo/scripts/stealth_pnginfo.py", line 20, in add_stealth_pnginfo
-            str_parameters = params.pnginfo['parameters']
-        KeyError: 'parameters'
-
         Error completing request
         Arguments: (0, <PIL.Image.Image image mode=RGB size=2048x2048 at 0x7FE0ED71BA60>, None, '', '', True, 0, 4, 512, 512, True, 'R-ESRGAN 4x+ Anime6B', 'None', 0, 0, 0, 0, 'None', False, False, 240, 10, 10) {}
         Traceback (most recent call last):
