@@ -343,6 +343,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://huggingface.co/NiXXerHATTER59/bad-artist](https://huggingface.co/NiXXerHATTER59/bad-artist) (Thanks to NiXXerHATTER59 ❤) <br />
 
 ## Special Thanks
+Thanks to @slowargo ❤ (colab memmory fix) <br />
 Thanks to @thx-pw ❤ (colab memmory fix) <br />
 Thanks to @Daviljoe193 ❤ (colab memmory fix) <br />
 Thanks to @machiavel23 ❤ (community colab) <br />
