@@ -4,7 +4,7 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/simple_dreambooth_trainer.ipynb) | Simple DreamBooth Trainer
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/simple_lora_trainer.ipynb) | Simple LoRA Trainer (Not recommended! Using [community training colabs](https://github.com/camenduru/stable-diffusion-webui-colab/tree/training#-community-kohya-ss--training-colabs-gpu) is recommended for achieving better results.)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/training/advanced_trainer.ipynb) | Advanced Trainer 🚦WIP🚦
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/trainer/blob/main/trainer.ipynb) | Trainer 🚦WIP🚦
 
 ### 🚨 Important
 - Your images should be in the same directory as your settings. 
