@@ -1,10 +1,10 @@
 ## 🦒 Install the WebUI Colab to Google Drive
 
-| Colab Page | Function
-| --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/install.ipynb) | One Time Install & Update
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/run.ipynb) | Run
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/add.ipynb) | Add Model
+| stable | nightly | Function
+| --- | --- | --- |
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/install.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/nightly/install.ipynb) | One Time Install & Update
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/run.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/nightly/run.ipynb) | Run
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/add.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/nightly/add.ipynb) | Add Model
 
 ## Tutorials
 Stable Diffusion WebUI Colab With Google Drive: https://www.youtube.com/watch?v=njW64feGMzI
