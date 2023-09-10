@@ -10,6 +10,20 @@
 
 ![image](https://github.com/camenduru/stable-diffusion-webui-colab/assets/54370274/631c7cae-e72d-4ca0-b062-3ffdb573a651)
 
+## ⚠ Alternatives
+https://github.com/camenduru/stable-diffusion-webui-sagemaker <br />
+https://github.com/camenduru/stable-diffusion-webui-paperspace <br />
+https://github.com/camenduru/stable-diffusion-webui-kaggle <br />
+https://github.com/camenduru/stable-diffusion-webui-runpod <br />
+https://github.com/camenduru/stable-diffusion-webui-vultr <br />
+https://github.com/camenduru/stable-diffusion-webui-docker <br />
+https://github.com/camenduru/stable-diffusion-webui-lambdalabs <br />
+https://github.com/camenduru/stable-diffusion-webui-saturncloud <br />
+https://github.com/camenduru/stable-diffusion-webui-modal <br />
+https://huggingface.co/spaces/camenduru-com/webui <br />
+https://huggingface.co/spaces/camenduru-com/webui-docker <br />
+https://github.com/camenduru/stable-diffusion-webui-openxlab <br />
+
 <!--
 
 ## 🦒 Install the WebUI Colab to Google Drive
