@@ -17,7 +17,7 @@ https://github.com/camenduru/stable-diffusion-webui-kaggle <br />
 https://github.com/camenduru/stable-diffusion-webui-runpod <br />
 https://github.com/camenduru/stable-diffusion-webui-vultr <br />
 https://github.com/camenduru/stable-diffusion-webui-docker <br />
-https://github.com/camenduru/stable-diffusion-webui-lambdalabs <br />
+https://github.com/camenduru/stable-diffusion-webui-lambda <br />
 https://github.com/camenduru/stable-diffusion-webui-saturncloud <br />
 https://github.com/camenduru/stable-diffusion-webui-modal <br />
 https://huggingface.co/spaces/camenduru-com/webui <br />
