@@ -2,37 +2,13 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
-
-## ⚠ The Stable Diffusion community is starting to report that Google Colab is aggressively banning accounts. 😭
-## ⚠ We are trying to understand what is happening because the [official statement](https://www.reddit.com/r/StableDiffusion/comments/12t8tc7/comment/jh2yhaz/?utm_source=share&utm_medium=web2x&context=3) was "No bans planned if you click through (will delete the VMs at some point)"
-## ⚠ Please do not use any type of Stable Diffusion UI, such as #StableDiffusionWebUI, #ComfyUI, #StableSwarmUI with Google Colab. 
-## ⚠ If your account is banned, please open an issue here: https://github.com/googlecolab/colabtools/issues
-
-![image](https://github.com/camenduru/stable-diffusion-webui-colab/assets/54370274/631c7cae-e72d-4ca0-b062-3ffdb573a651)
-
-## ⚠ Alternatives
-https://github.com/camenduru/stable-diffusion-webui-sagemaker <br />
-https://github.com/camenduru/stable-diffusion-webui-paperspace <br />
-https://github.com/camenduru/stable-diffusion-webui-kaggle <br />
-https://github.com/camenduru/stable-diffusion-webui-runpod <br />
-https://github.com/camenduru/stable-diffusion-webui-vultr <br />
-https://github.com/camenduru/stable-diffusion-webui-docker <br />
-https://github.com/camenduru/stable-diffusion-webui-lambda <br />
-https://github.com/camenduru/stable-diffusion-webui-saturncloud <br />
-https://github.com/camenduru/stable-diffusion-webui-modal <br />
-https://huggingface.co/spaces/camenduru-com/webui <br />
-https://huggingface.co/spaces/camenduru-com/webui-docker <br />
-https://github.com/camenduru/stable-diffusion-webui-openxlab <br />
-
-<!--
-
 ## 🦒 Install the WebUI Colab to Google Drive
 
 | stable | nightly | Function
 | --- | --- | --- |
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/install.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/nightly/install.ipynb) | One Time Install & Update
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/run.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/nightly/run.ipynb) | Run
-[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/add.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/nightly/add.ipynb) | Add Model
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/install_run.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/nightly/install_run.ipynb) | One Time Install & Update
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/run_run.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/nightly/run_run.ipynb) | Run
+[![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/add_run.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/drive/nightly/add_run.ipynb) | Add Model
 
 ## Tutorials
 Stable Diffusion WebUI Colab With Google Drive: https://www.youtube.com/watch?v=njW64feGMzI
@@ -61,5 +37,3 @@ You can also free up more space by deleting the default model in your drive.
 If you don't plan to use ControlNet models, you can also free up space by deleting them. (thanks to twitter@muadoyoki ❤)
 
 ![Screenshot 2023-02-24 141259](https://user-images.githubusercontent.com/54370274/221165764-b4db7c3c-0cc9-4976-a922-395bb72a002d.png)
-
--->
