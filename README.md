@@ -2,6 +2,8 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
+# WebUI Restrictions Lifted! 🥳 Free WebUI is Back! 🔥 This repository is outdated and no longer receives updates. Please try https://github.com/cagliostrolab/forge-colab
+
 ## How to use DreamBooth & LoRA trainer ?
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/training <br />
 or please select `training` from `switch branches/tags`
