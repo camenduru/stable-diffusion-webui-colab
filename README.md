@@ -372,3 +372,4 @@ Thanks to chiraggg ❤ (suggestion of the dev test colab extensions) <br />
 ## Models License
 https://huggingface.co/spaces/CompVis/stable-diffusion-license
 
+Running on public URL: https://xxxx.gradio.live
